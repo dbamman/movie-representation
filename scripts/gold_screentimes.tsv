@@ -1,0 +1,881 @@
+actor IMDB	year	movie IMDB	movie ID	award_year	Actor	Title	Time	Mins	Lead
+nm0000093	1996	tt0114746	12_monkeys	1995	Brad Pitt	12 Monkeys	17:36	17.6	non-lead
+nm0252230	2013	tt2024544	12.years.a.slav_tt2024544	2013	Chiwetel Ejiofor	12 Years a Slave	1:37:18	97.3	lead
+nm1055413	2013	tt2024544	12.years.a.slav_tt2024544	2013	Michael Fassbender	12 Years a Slave	27:59:00	27.983	non-lead
+nm2143282	2013	tt2024544	12.years.a.slav_tt2024544	2013	Lupita Nyong'o	12 Years a Slave	22:30	22.5	non-lead
+nm0290556	2010	tt1542344	127.hours_tt1542344	2010	James Franco	127 Hours	1:20:25	80.417	lead
+nm0000158	2019	tt3224458	a.beautiful.day_tt3224458	2019	Tom Hanks	A Beautiful Day in the Neighborhood	44:56:00	44.933	non-lead
+nm0000658	1988	tt0094924	a.cry.in.the.da_tt0094924	1988	Meryl Streep	A Cry in the Dark	1:07:29	67.483	lead
+nm0000458	2005	tt0399146	a.history.of.vi_tt0399146	2005	William Hurt	A History of Violence	8:22	8.367	non-lead
+nm0001114	1985	tt0087892	a.passage.to.in_tt0087892	1984	Judy Davis	A Passage to India	53:06:00	53.1	lead
+nm0001919	1985	tt0087892	a.passage.to.in_tt0087892	1984	Peggy Ashcroft	A Passage to India	32:16:00	32.267	non-lead
+nm0001186	1987	tt0091867	a.room.with.a.v_tt0091867	1986	Denholm Elliott	A Room with a View	13:03	13.05	non-lead
+nm0001749	1987	tt0091867	a.room.with.a.v_tt0091867	1986	Maggie Smith	A Room with a View	26:30:00	26.5	non-lead
+nm0128360	1984	tt0088146	a.soldiers.stor_tt0088146	1984	Adolph Caesar	A Soldier's Story	26:35:00	26.583	non-lead
+nm0000197	2003	tt0257360	about.schmidt_tt0257360	2002	Jack Nicholson	About Schmidt	1:35:57	95.95	lead
+nm0000870	2003	tt0257360	about.schmidt_tt0257360	2002	Kathy Bates	About Schmidt	12:59	12.983	non-lead
+nm0000056	1981	tt0081974	absence_of_malice	1981	Paul Newman	Absence of Malice	45:25:00	45.417	lead
+nm0227039	1981	tt0081974	absence_of_malice	1981	Melinda Dillon	Absence of Malice	9:13	9.217	non-lead
+nm0000133	1989	tt0094606	accidental.tour_tt0094606	1988	Geena Davis	The Accidental Tourist	29:30:00	29.5	non-lead
+nm0000149	1988	tt0094608	accused_tt0094608	1988	Jodie Foster	The Accused	51:44:00	51.733	lead
+nm0000115	2002	tt0268126	adaptation._tt0268126	2002	Nicolas Cage	Adaptation	1:03:38	63.633	lead
+nm0000658	2002	tt0268126	adaptation._tt0268126	2002	Meryl Streep	Adaptation	30:45:00	30.75	non-lead
+nm0000560	1997	tt0118564	affliction_tt0118564	1998	Nick Nolte	Affliction	1:25:14	85.233	lead
+nm0000336	1997	tt0118564	affliction_tt0118564	1998	James Coburn	Affliction	17:10	17.167	non-lead
+nm0000213	1993	tt0106226	age.of.innocenc_tt0106226	1993	Winona Ryder	The Age of Innocence	28:26:00	28.433	non-lead
+nm0000843	1985	tt0088683	agnes.of.god_tt0088683	1985	Anne Bancroft	Agnes of God	33:26:00	33.433	lead
+nm0000672	1985	tt0088683	agnes.of.god_tt0088683	1985	Meg Tilly	Agnes of God	37:00:00	37	non-lead
+nm0000244	1986	tt0090605	alien_2	1986	Sigourney Weaver	Aliens	1:13:14	73.233	lead
+nm0000531	2000	tt0181875	almost.famous_tt0181875	2000	Frances McDormand	Almost Famous	12:10	12.167	non-lead
+nm0005028	2000	tt0181875	almost.famous_tt0181875	2000	Kate Hudson	Almost Famous	25:28:00	25.467	non-lead
+nm0000719	1985	tt0086879	amadeus_tt0086879	1984	F. Murray Abraham	Amadeus	1:08:00	68	lead
+nm0001371	1985	tt0086879	amadeus_tt0086879	1984	Tom Hulce	Amadeus	1:08:46	68.767	lead
+nm0000228	1999	tt0169547	american_beauty	1999	Kevin Spacey	American Beauty	48:34:00	48.567	lead
+nm0000906	1999	tt0169547	american_beauty	1999	Annette Bening	American Beauty	28:04:00	28.067	lead
+nm0002039	2007	tt0765429	american_gangster	2007	Ruby Dee	American Gangster	6:10	6.167	non-lead
+nm0177896	2015	tt2179136	american_sniper	2014	Bradley Cooper	American Sniper	1:24:29	84.483	lead
+nm0000288	2013	tt1800241	american.hustle_tt1800241	2013	Christian Bale	American Hustle	1:07:34	67.567	lead
+nm0010736	2013	tt1800241	american.hustle_tt1800241	2013	Amy Adams	American Hustle	49:50:00	49.833	lead
+nm0177896	2013	tt1800241	american.hustle_tt1800241	2013	Bradley Cooper	American Hustle	45:40:00	45.667	non-lead
+nm2225369	2013	tt1800241	american.hustle_tt1800241	2013	Jennifer Lawrence	American Hustle	20:18	20.3	non-lead
+nm0000164	1997	tt0118607	amistad_tt0118607	1997	Anthony Hopkins	Amistad	27:50:00	27.833	non-lead
+nm0728938	2012	tt1602620	amour_tt1602620	2012	Emmanuelle Riva	Amour	1:08:11	68.183	lead
+nm1659547	2009	tt1174732	an.education_tt1174732	2009	Carey Mulligan	An Education	1:13:55	73.917	lead
+nm0000438	1995	tt0112384	apollo13	1995	Ed Harris	Apollo 13	14:47	14.783	non-lead
+nm0000599	1995	tt0112384	apollo13	1995	Kathleen Quinlan	Apollo 13	15:44	15.733	non-lead
+nm0000273	2012	tt1024648	argo	2012	Alan Arkin	Argo	8:39	8.65	non-lead
+nm0001545	1981	tt0082031	arthur_full	1981	Dudley Moore	Arthur	1:16:35	76.583	lead
+nm0000024	1981	tt0082031	arthur_full	1981	John Gielgud	Arthur	18:44	18.733	non-lead
+nm0241121	2011	tt1655442	artist_tt1655442	2011	Jean Dujardin	The Artist	58:15:00	58.25	lead
+nm0067367	2011	tt1655442	artist_tt1655442	2011	Bérénice Bejo	The Artist	29:43:00	29.717	non-lead
+nm0000044	1980	tt0080388	atlantic.city_tt0080388	1981	Burt Lancaster	Atlantic City	56:32:00	56.533	lead
+nm0000215	1980	tt0080388	atlantic.city_tt0080388	1981	Susan Sarandon	Atlantic City	45:47:00	45.783	lead
+nm1519680	2007	tt0783233	atonement_tt0783233	2007	Saoirse Ronan	Atonement	21:00	21	non-lead
+nm0000138	2005	tt0338751	aviator	2004	Leonardo DiCaprio	The Aviator	1:57:46	117.767	lead
+nm0000257	2005	tt0338751	aviator	2004	Alan Alda	The Aviator	10:53	10.883	non-lead
+nm0000949	2005	tt0338751	aviator	2004	Cate Blanchett	The Aviator	25:45:00	25.75	non-lead
+nm0000134	1991	tt0099077	awakenings	1990	Robert De Niro	Awakenings	44:56:00	44.933	lead
+nm0000342	1995	tt0112431	babe	1995	James Cromwell	Babe	27:34:00	27.567	non-lead
+nm0056770	2006	tt0449467	babel_tt0449467	2006	Adriana Barraza	Babel	23:21	23.35	non-lead
+nm0452860	2006	tt0449467	babel_tt0449467	2006	Rinko Kikuchi	Babel	28:16:00	28.267	non-lead
+nm0268199	2022	tt11813216	banshees.of.ini_tt11813216	2022	Colin Farrell	The Banshees of Inisherin	1:09:26	69.433	lead
+nm0174403	2022	tt11813216	banshees.of.ini_tt11813216	2022	Kerry Condon	The Banshees of Inisherin	23:09	23.15	non-lead
+nm0322407	2022	tt11813216	banshees.of.ini_tt11813216	2022	Brendan Gleeson	The Banshees of Inisherin	34:32:00	34.533	non-lead
+nm4422686	2022	tt11813216	banshees.of.ini_tt11813216	2022	Barry Keoghan	The Banshees of Inisherin	13:50	13.833	non-lead
+nm4832920	2012	tt2125435	beasts.of.the.s_tt2125435	2012	Quvenzhané Wallis	Beasts of the Southern Wild	55:53:00	55.883	lead
+nm0000128	2002	tt0268978	beautiful_mind	2001	Russell Crowe	A Beautiful Mind	1:36:43	96.717	lead
+nm0000124	2002	tt0268978	beautiful_mind	2001	Jennifer Connelly	A Beautiful Mind	38:17:00	38.283	non-lead
+nm0001416	1999	tt0120601	being.john.malk_tt0120601	1999	Catherine Keener	Being John Malkovich	27:39:00	27.65	non-lead
+nm0001132	2021	tt12789558	belfast_tt12789558	2021	Judi Dench	Belfast	13:51	13.85	non-lead
+nm0001354	2021	tt12789558	belfast_tt12789558	2021	Ciarán Hinds	Belfast	11:54	11.9	non-lead
+nm0001164	1982	tt0083642	best_little_whorehouse_in_texas	1982	Charles Durning	The Best Little Whorehouse in Texas	7:26	7.433	non-lead
+nm0000158	1988	tt0094737	big	1988	Tom Hanks	Big	1:06:19	66.317	lead
+nm0000335	1983	tt0085244	big_chill	1983	Glenn Close	The Big Chill	22:39	22.65	non-lead
+nm0000288	2015	tt1596363	big.short_tt1596363	2015	Christian Bale	The Big Short	22:27	22.45	non-lead
+nm0910278	2000	tt0249462	billy.elliot_tt0249462	2000	Julie Walters	Billy Elliot	21:44	21.733	non-lead
+nm1297015	2014	tt2562232	birdman.or.the._tt2562232	2014	Emma Stone	Birdman	19:22	19.367	non-lead
+nm0000474	2014	tt2562232	birdman.or.the._tt2562232	2014	Michael Keaton	Birdman	1:19:44	79.733	lead
+nm0001570	2014	tt2562232	birdman.or.the._tt2562232	2014	Edward Norton	Birdman	30:13:00	30.217	non-lead
+nm0000291	2022	tt9114286	black.panther.w_tt9114286	2022	Angela Bassett	Black Panther: Wakanda Forever	21:57	21.95	non-lead
+nm0000204	2011	tt0947798	black.swan_tt0947798	2010	Natalie Portman	Black Swan	1:29:18	89.3	lead
+nm3485845	2018	tt7349662	blackkklansman_tt7349662	2018	Adam Driver	BlacKkKlansman	38:16:00	38.267	non-lead
+nm0000113	2009	tt0878804	blind_side	2009	Sandra Bullock	The Blind Side	55:54:00	55.9	lead
+nm1785339	2018	tt1727824	bohemian_rhapsody	2018	Rami Malek	Bohemian Rhapsody	1:31:58	91.967	lead
+nm0000234	2020	tt6394270	bombshell_tt6394270	2019	Charlize Theron	Bombshell	37:16:00	37.267	lead
+nm3053338	2020	tt6394270	bombshell_tt6394270	2019	Margot Robbie	Bombshell	26:16:00	26.267	non-lead
+nm0000194	1997	tt0118749	boogie.nights_tt0118749	1997	Julianne Moore	Boogie Nights	27:17:00	27.283	non-lead
+nm0000608	1997	tt0118749	boogie.nights_tt0118749	1997	Burt Reynolds	Boogie Nights	34:37:00	34.617	non-lead
+nm0000129	1990	tt0096969	born_on_the_fourth_of_july	1989	Tom Cruise	Born on the Fourth of July	1:34:09	94.15	lead
+nm0000099	2014	tt1065073	boyhood_tt1065073	2014	Patricia Arquette	Boyhood	33:54:00	33.9	non-lead
+nm0000160	2014	tt1065073	boyhood_tt1065073	2014	Ethan Hawke	Boyhood	43:48:00	43.8	non-lead
+nm0001833	1996	tt0115751	breaking.the.wa_tt0115751	1996	Emily Watson	Breaking the Waves	1:33:44	93.733	lead
+nm0565250	2011	tt1478338	bridesmaids	2011	Melissa McCarthy	Bridesmaids	20:38	20.633	non-lead
+nm0753314	2015	tt3682448	bridge.of.spies_tt3682448	2015	Mark Rylance	Bridge of Spies	25:06:00	25.1	non-lead
+nm0000658	1995	tt0112579	bridges_of_madison_county	1995	Meryl Streep	The Bridges of Madison County	1:32:54	92.9	lead
+nm0000250	2001	tt0243155	bridget.joness._tt0243155	2001	Renée Zellweger	Bridget Jones's Diary	1:08:40	68.667	lead
+nm0000456	1988	tt0092699	broadcast.news_tt0092699	1987	Holly Hunter	Broadcast News	1:11:21	71.35	lead
+nm0000458	1988	tt0092699	broadcast.news_tt0092699	1987	William Hurt	Broadcast News	52:41:00	52.683	lead
+nm0000983	1988	tt0092699	broadcast.news_tt0092699	1987	Albert Brooks	Broadcast News	43:32:00	43.533	non-lead
+nm0005132	2006	tt0388795	brokeback.mount_tt0388795	2005	Heath Ledger	Brokeback Mountain	1:23:22	83.367	lead
+nm0350453	2006	tt0388795	brokeback.mount_tt0388795	2005	Jake Gyllenhaal	Brokeback Mountain	58:09:00	58.15	non-lead
+nm0931329	2006	tt0388795	brokeback.mount_tt0388795	2005	Michelle Williams	Brokeback Mountain	14:25	14.417	non-lead
+nm1519680	2015	tt2381111	brooklyn_tt2381111	2015	Saoirse Ronan	Brooklyn	1:31:29	91.483	lead
+nm0000886	1992	tt0101516	bugsy_tt0101516	1991	Warren Beatty	Bugsy	1:41:31	101.517	lead
+nm0000172	1992	tt0101516	bugsy_tt0101516	1991	Harvey Keitel	Bugsy	13:54	13.9	non-lead
+nm0001426	1992	tt0101516	bugsy_tt0101516	1991	Ben Kingsley	Bugsy	11:46	11.767	non-lead
+nm0000134	1991	tt0101540	cape_fear	1991	Robert De Niro	Cape Fear	48:22:00	48.367	lead
+nm0000496	1991	tt0101540	cape_fear	1991	Juliette Lewis	Cape Fear	27:56:00	27.933	non-lead
+nm0000450	2005	tt0379725	capote_tt0379725	2005	Philip Seymour Hoffman	Capote	1:22:46	82.767	lead
+nm0001416	2005	tt0379725	capote_tt0379725	2005	Catherine Keener	Capote	18:41	18.683	non-lead
+nm5831542	2013	tt1535109	captain_phillips	2013	Barkhad Abdi	Captain Phillips	43:33:00	43.55	non-lead
+nm0000949	2015	tt2402927	carol_tt2402927	2015	Cate Blanchett	Carol	1:04:45	64.75	lead
+nm1913734	2015	tt2402927	carol_tt2402927	2015	Rooney Mara	Carol	1:10:37	70.617	non-lead
+nm0000232	1995	tt0112641	casino_tt0112641	1995	Sharon Stone	Casino	51:58:00	51.967	lead
+nm0000158	2000	tt0162222	castaway	2000	Tom Hanks	Cast Away	1:58:15	118.25	lead
+nm0000686	2002	tt0264464	catch.me.if.you_tt0264464	2002	Christopher Walken	Catch Me If You Can	18:46	18.767	non-lead
+nm0000453	1981	tt0082158	chariots_of_fire	1981	Ian Holm	Chariots of Fire	14:10	14.167	non-lead
+nm0000450	2007	tt0472062	charlie.wilsons_tt0472062	2007	Philip Seymour Hoffman	Charlie Wilson's War	25:10:00	25.167	non-lead
+nm0000250	2003	tt0299658	chicago	2002	Renée Zellweger	Chicago	56:01:00	56.017	lead
+nm0000604	2003	tt0299658	chicago	2002	John C. Reilly	Chicago	11:36	11.6	non-lead
+nm0001451	2003	tt0299658	chicago	2002	Queen Latifah	Chicago	10:55	10.917	non-lead
+nm0001876	2003	tt0299658	chicago	2002	Catherine Zeta-Jones	Chicago	29:55:00	29.917	non-lead
+nm0000458	1986	tt0090830	children.of.a.l_tt0090830	1986	William Hurt	Children of a Lesser God	1:23:06	83.1	lead
+nm0559144	1986	tt0090830	children.of.a.l_tt0090830	1986	Marlee Matlin	Children of a Lesser God	1:02:47	62.783	lead
+nm0001453	1986	tt0090830	children.of.a.l_tt0090830	1986	Piper Laurie	Children of a Lesser God	8:00	8	non-lead
+nm0000300	2001	tt0241303	chocolat_tt0241303	2000	Juliette Binoche	Chocolat	52:11:00	52.183	lead
+nm0001132	2001	tt0241303	chocolat_tt0241303	2000	Judi Dench	Chocolat	13:38	13.633	non-lead
+nm0000323	2000	tt0124315	cider.house.rul_tt0124315	1999	Michael Caine	The Cider House Rules	26:38:00	26.633	non-lead
+nm0316079	2005	tt0352248	cinderella.man_tt0352248	2005	Paul Giamatti	Cinderella Man	34:52:00	34.867	non-lead
+nm0001588	1991	tt0101587	city_slickers	1991	Jack Palance	City Slickers	12:24	12.4	non-lead
+nm0000215	1994	tt0109446	client	1994	Susan Sarandon	The Client	37:55:00	37.917	lead
+nm0000204	2004	tt0376541	closer_tt0376541	2004	Natalie Portman	Closer	38:20:00	38.333	non-lead
+nm0654110	2004	tt0376541	closer_tt0376541	2004	Clive Owen	Closer	37:16:00	37.267	non-lead
+nm0000651	1980	tt0080549	coal_miners_daughter	1980	Sissy Spacek	Coal Miner's Daughter	1:30:58	90.967	lead
+nm0000747	1985	tt0088933	cocoon	1985	Don Ameche	Cocoon	24:27:00	24.45	non-lead
+nm0000179	2004	tt0159365	cold.mountain_tt0159365	2003	Jude Law	Cold Mountain	1:06:02	66.033	lead
+nm0000250	2004	tt0159365	cold.mountain_tt0159365	2003	Renée Zellweger	Cold Mountain	28:40:00	28.667	non-lead
+nm0004937	2004	tt0369339	collateral	2004	Jamie Foxx	Collateral	1:04:13	64.217	non-lead
+nm0000056	1986	tt0090863	color_of_money	1986	Paul Newman	The Color of Money	1:22:39	82.65	lead
+nm0001512	1986	tt0090863	color_of_money	1986	Mary Elizabeth Mastrantonio	The Color of Money	37:08:00	37.133	non-lead
+nm0000155	1986	tt0088939	color_purple	1985	Whoopi Goldberg	The Color Purple	1:01:19	61.317	lead
+nm0001856	1986	tt0088939	color_purple	1985	Oprah Winfrey	The Color Purple	23:01	23.017	non-lead
+nm0001923	1986	tt0088939	color_purple	1985	Margaret Avery	The Color Purple	34:35:00	34.583	non-lead
+nm0001838	2005	tt0387131	constant.garden_tt0387131	2005	Rachel Weisz	The Constant Gardener	30:00:00	30	non-lead
+nm0000369	2005	tt0375679	crash_tt0375679	2005	Matt Dillon	Crash	16:31	16.517	non-lead
+nm0000230	2015	tt3076658	creed	2015	Sylvester Stallone	Creed	57:50:00	57.833	non-lead
+nm0001445	1989	tt0097123	crimes.and.misd_tt0097123	1989	Martin Landau	Crimes and Misdemeanors	43:43:00	43.717	non-lead
+nm0000651	1986	tt0090886	crimes.of.the.h_tt0090886	1986	Sissy Spacek	Crimes of the Heart	51:53:00	51.883	lead
+nm0002128	1986	tt0090886	crimes.of.the.h_tt0090886	1986	Tess Harper	Crimes of the Heart	9:52	9.867	non-lead
+nm0000243	1987	tt0092804	cry.freedom_tt0092804	1987	Denzel Washington	Cry Freedom	29:50:00	29.833	non-lead
+nm0001653	1993	tt0104036	crying_game	1992	Stephen Rea	The Crying Game	1:21:05	81.083	lead
+nm0001109	1993	tt0104036	crying_game	1992	Jaye Davidson	The Crying Game	43:34:00	43.567	non-lead
+nm0000093	2008	tt0421715	curious.case.of_tt0421715	2008	Brad Pitt	The Curious Case of Benjamin Button	1:25:40	85.667	lead
+nm0378245	2008	tt0421715	curious.case.of_tt0421715	2008	Taraji P. Henson	The Curious Case of Benjamin Button	16:33	16.55	non-lead
+nm0000190	2013	tt0790636	dallas.buyers.c_tt0790636	2013	Matthew McConaughey	Dallas Buyers Club	1:30:40	90.667	lead
+nm0001467	2013	tt0790636	dallas.buyers.c_tt0790636	2013	Jared Leto	Dallas Buyers Club	22:28	22.467	non-lead
+nm0000126	1990	tt0099348	dances_with_wolves_fs	1990	Kevin Costner	Dances with Wolves	1:41:44	101.733	lead
+nm0001295	1990	tt0099348	dances_with_wolves_fs	1990	Graham Greene	Dances with Wolves	28:43:00	28.717	non-lead
+nm0001521	1990	tt0099348	dances_with_wolves_fs	1990	Mary McDonnell	Dances with Wolves	31:04:00	31.067	non-lead
+nm0000335	1989	tt0094947	dangerous.liais_tt0094947	1988	Glenn Close	Dangerous Liaisons	40:49:00	40.817	lead
+nm0000201	1989	tt0094947	dangerous.liais_tt0094947	1988	Michelle Pfeiffer	Dangerous Liaisons	29:29:00	29.483	non-lead
+nm0005132	2008	tt0468569	dark_knight	2008	Heath Ledger	The Dark Knight	33:10:00	33.167	non-lead
+nm0000198	2017	tt4555426	darkest.hour_tt4555426	2017	Gary Oldman	Darkest Hour	1:22:47	82.783	lead
+nm0000245	1989	tt0097165	dead_poets_society	1989	Robin Williams	Dead Poets Society	33:39:00	33.65	lead
+nm0000215	1996	tt0112818	dead.man.walkin_tt0112818	1995	Susan Sarandon	Dead Man Walking	1:13:56	73.933	lead
+nm0000576	1996	tt0112818	dead.man.walkin_tt0112818	1995	Sean Penn	Dead Man Walking	49:00:00	49	lead
+nm0000242	2006	tt0407887	departed	2006	Mark Wahlberg	The Departed	9:21	9.35	non-lead
+nm0000123	2011	tt1033575	descendants_tt1033575	2011	George Clooney	The Descendants	1:23:47	83.783	lead
+nm0000658	2006	tt0458352	devil_wears_prada	2006	Meryl Streep	The Devil Wears Prada	28:39:00	28.65	lead
+nm0000199	1990	tt0099422	dick_tracy	1990	Al Pacino	Dick Tracy	22:38	22.633	non-lead
+nm0910607	2012	tt1853728	django.unchaine_tt1853728	2012	Christoph Waltz	Django Unchained	1:06:17	66.283	non-lead
+nm0000732	1989	tt0097216	do.the.right.th_tt0097216	1989	Danny Aiello	Do the Right Thing	23:47	23.783	non-lead
+nm0000552	2007	tt0443489	dreamgirls_tt0443489	2006	Eddie Murphy	Dreamgirls	24:49:00	24.817	non-lead
+nm1617685	2007	tt0443489	dreamgirls_tt0443489	2006	Jennifer Hudson	Dreamgirls	51:30:00	51.5	non-lead
+nm0000151	1990	tt0097239	driving_miss_daisy	1989	Morgan Freeman	Driving Miss Daisy	55:34:00	55.567	lead
+nm0001788	1990	tt0097239	driving_miss_daisy	1989	Jessica Tandy	Driving Miss Daisy	55:11:00	55.183	lead
+nm0000101	1990	tt0097239	driving_miss_daisy	1989	Dan Aykroyd	Driving Miss Daisy	26:31:00	26.517	non-lead
+nm0001557	2007	tt0765443	eastern.promise_tt0765443	2007	Viggo Mortensen	Eastern Promises	44:58:00	44.967	lead
+nm0001445	1994	tt0109707	ed.wood_tt0109707	1994	Martin Landau	Ed Wood	33:18:00	33.3	non-lead
+nm0000323	1983	tt0085478	educating.rita_tt0085478	1983	Michael Caine	Educating Rita	57:06:00	57.1	lead
+nm0910278	1983	tt0085478	educating.rita_tt0085478	1983	Julie Walters	Educating Rita	1:13:36	73.6	lead
+nm0000457	1980	tt0080678	elephant.man_tt0080678	1980	John Hurt	The Elephant Man	53:39:00	53.65	lead
+nm0000949	1998	tt0127536	elizabeth_tt0127536	1998	Cate Blanchett	Elizabeth	56:41:00	56.683	lead
+nm2581521	2022	tt3704428	elvis_tt3704428	2022	Austin Butler	Elvis	1:35:34	95.567	lead
+nm0687506	1991	tt0101811	enchanted.april_tt0101811	1992	Joan Plowright	Enchanted April	19:23	19.383	non-lead
+nm0000194	1999	tt0172396	end.of.the.affa_tt0172396	1999	Julianne Moore	The End of the Affair	46:39:00	46.65	lead
+nm0000565	1989	tt0097276	enemies.a.love._tt0097276	1989	Lena Olin	Enemies, A Love Story	41:38:00	41.633	non-lead
+nm0001378	1989	tt0097276	enemies.a.love._tt0097276	1989	Anjelica Huston	Enemies, A Love Story	24:28:00	24.467	non-lead
+nm0000146	1996	tt0116209	english.patient_tt0116209	1996	Ralph Fiennes	The English Patient	1:22:17	82.283	lead
+nm0000218	1996	tt0116209	english.patient_tt0116209	1996	Kristin Scott Thomas	The English Patient	47:38:00	47.633	lead
+nm0000300	1996	tt0116209	english.patient_tt0116209	1996	Juliette Binoche	The English Patient	42:04:00	42.067	non-lead
+nm0000210	2000	tt0195685	erin_brockovich	2000	Julia Roberts	Erin Brockovich	1:35:45	95.75	lead
+nm0001215	2000	tt0195685	erin_brockovich	2000	Albert Finney	Erin Brockovich	36:46:00	36.767	non-lead
+nm0000701	2004	tt0338013	eternal.sunshin_tt0338013	2004	Kate Winslet	Eternal Sunshine of the Spotless Mind	46:29:00	46.483	lead
+nm0000706	2022	tt6710474	everything.ever_tt6710474	2022	Michelle Yeoh	Everything Everywhere All at Once	1:35:16	95.267	lead
+nm0000130	2022	tt6710474	everything.ever_tt6710474	2022	Jamie Lee Curtis	Everything Everywhere All at Once	17:15	17.25	non-lead
+nm0702841	2022	tt6710474	everything.ever_tt6710474	2022	Ke Huy Quan	Everything Everywhere All at Once	58:33:00	58.55	non-lead
+nm3513533	2022	tt6710474	everything.ever_tt6710474	2022	Stephanie Hsu	Everything Everywhere All at Once	42:18:00	42.3	non-lead
+nm0931329	2022	tt14208870	fabelmans_tt14208870	2022	Michelle Williams	The Fabelmans	52:24:00	52.4	lead
+nm0002139	2022	tt14208870	fabelmans_tt14208870	2022	Judd Hirsch	The Fabelmans	8:03	8.05	non-lead
+nm0000194	2002	tt0297884	far.from.heaven_tt0297884	2002	Julianne Moore	Far from Heaven	1:18:15	78.25	lead
+nm0000531	1996	tt0116282	fargo_tt0116282	1996	Frances McDormand	Fargo	26:29:00	26.483	lead
+nm0000513	1996	tt0116282	fargo_tt0116282	1996	William H. Macy	Fargo	27:07:00	27.117	non-lead
+nm0000335	1987	tt0093010	fatal_attraction	1987	Glenn Close	Fatal Attraction	45:30:00	45.5	lead
+nm0000271	1987	tt0093010	fatal_attraction	1987	Anne Archer	Fatal Attraction	25:13:00	25.217	non-lead
+nm0000164	2020	tt10272386	father_tt10272386	2020	Anthony Hopkins	The Father	1:05:14	65.233	lead
+nm1469236	2020	tt10272386	father_tt10272386	2020	Olivia Colman	The Father	35:59:00	35.983	non-lead
+nm1469236	2018	tt5083738	favourite_tt5083738	2018	Olivia Colman	The Favourite	49:48:00	49.8	lead
+nm0001838	2018	tt5083738	favourite_tt5083738	2018	Rachel Weisz	The Favourite	42:51:00	42.85	non-lead
+nm1297015	2018	tt5083738	favourite_tt5083738	2018	Emma Stone	The Favourite	57:20:00	57.333	non-lead
+nm0000243	2016	tt2671706	fences_tt2671706	2016	Denzel Washington	Fences	1:33:35	93.583	lead
+nm0205626	2016	tt2671706	fences_tt2671706	2016	Viola Davis	Fences	53:32:00	53.533	non-lead
+nm0000197	1992	tt0104257	few_good_men	1992	Jack Nicholson	A Few Good Men	19:47	19.783	non-lead
+nm0000288	2011	tt0964517	fighter_tt0964517	2010	Christian Bale	The Fighter	50:30:00	50.5	non-lead
+nm0010736	2011	tt0964517	fighter_tt0964517	2010	Amy Adams	The Fighter	26:20:00	26.333	non-lead
+nm0502425	2011	tt0964517	fighter_tt0964517	2010	Melissa Leo	The Fighter	25:15:00	25.25	non-lead
+nm0000136	2004	tt0308644	finding.neverla_tt0308644	2004	Johnny Depp	Finding Neverland	1:02:04	62.067	lead
+nm0000456	1993	tt0106918	firm_fs	1993	Holly Hunter	The Firm	7:24	7.4	non-lead
+nm0000177	1988	tt0095159	fish_called_wanda	1988	Kevin Kline	A Fish Called Wanda	42:37:00	42.617	non-lead
+nm0000245	1991	tt0101889	fisher.king_tt0101889	1991	Robin Williams	The Fisher King	57:55:00	57.917	lead
+nm0001689	1991	tt0101889	fisher.king_tt0101889	1991	Mercedes Ruehl	The Fisher King	36:25:00	36.417	non-lead
+nm0000243	2012	tt1907668	flight	2012	Denzel Washington	Flight	1:40:37	100.617	lead
+nm0000353	2017	tt5649144	florida.project_tt5649144	2017	Willem Dafoe	The Florida Project	32:57:00	32.95	non-lead
+nm0000158	1994	tt0109830	forrest_gump	1994	Tom Hanks	Forrest Gump	1:45:28	105.467	lead
+nm0000641	1994	tt0109830	forrest_gump	1994	Gary Sinise	Forrest Gump	21:17	21.283	non-lead
+nm0136797	2014	tt1100089	foxcatcher_tt1100089	2014	Steve Carell	Foxcatcher	52:37:00	52.617	lead
+nm0749263	2014	tt1100089	foxcatcher_tt1100089	2014	Mark Ruffalo	Foxcatcher	38:26:00	38.433	non-lead
+nm0000658	1981	tt0082416	french.lieutena_tt0082416	1981	Meryl Streep	The French Lieutenant's Woman	55:31:00	55.517	lead
+nm0001788	1992	tt0101921	fried_green_tomatoes	1991	Jessica Tandy	Fried Green Tomatoes	24:29:00	24.483	non-lead
+nm0000169	1993	tt0106977	fugitive	1993	Tommy Lee Jones	The Fugitive	35:05:00	35.083	non-lead
+nm0001426	1983	tt0083987	gandhi	1982	Ben Kingsley	Gandhi	1:34:52	94.867	lead
+nm0000358	2002	tt0217505	gangs.of.new.yo_tt0217505	2002	Daniel Day-Lewis	Gangs of New York	47:58:00	47.967	lead
+nm2257207	2017	tt5052448	get_out	2017	Daniel Kaluuya	Get Out	1:06:23	66.383	lead
+nm0000155	1990	tt0099653	ghost	1990	Whoopi Goldberg	Ghost	27:10:00	27.167	non-lead
+nm0000128	2000	tt0172495	gladiator	2000	Russell Crowe	Gladiator	1:12:00	72	lead
+nm0001618	2000	tt0172495	gladiator	2000	Joaquin Phoenix	Gladiator	39:45:00	39.75	non-lead
+nm0001687	1980	tt0080798	gloria_tt0080798	1980	Gena Rowlands	Gloria	1:22:35	82.583	lead
+nm0000243	1990	tt0097441	glory_tt0097441	1989	Denzel Washington	Glory	33:12:00	33.2	non-lead
+nm0000412	1990	tt0099674	godfather.part._tt0099674	1990	Andy Garcia	The Godfather Part III	46:00:00	46	non-lead
+nm0005212	1998	tt0120684	gods.and.monste_tt0120684	1998	Ian McKellen	Gods and Monsters	1:06:40	66.667	lead
+nm0001655	1998	tt0120684	gods.and.monste_tt0120684	1998	Lynn Redgrave	Gods and Monsters	13:56	13.933	non-lead
+nm0683253	2014	tt2267998	gone_girl	2014	Rosamund Pike	Gone Girl	56:45:00	56.75	lead
+nm0000245	1988	tt0093105	good_morning_vietnam	1987	Robin Williams	Good Morning, Vietnam	1:16:08	76.133	lead
+nm0000354	1998	tt0119217	good_will_hunting	1997	Matt Damon	Good Will Hunting	1:20:36	80.6	lead
+nm0000245	1998	tt0119217	good_will_hunting	1997	Robin Williams	Good Will Hunting	37:05:00	37.083	non-lead
+nm0000378	1998	tt0119217	good_will_hunting	1997	Minnie Driver	Good Will Hunting	24:10:00	24.167	non-lead
+nm0000582	1990	tt0099685	goodfellas_tt0099685	1990	Joe Pesci	Goodfellas	27:08:00	27.133	non-lead
+nm0000966	1990	tt0099685	goodfellas_tt0099685	1990	Lorraine Bracco	Goodfellas	33:12:00	33.2	non-lead
+nm0000244	1988	tt0095243	gorillas.in.the_tt0095243	1988	Sigourney Weaver	Gorillas in the Mist	1:29:40	89.667	lead
+nm0000545	2001	tt0280707	gosford.park_tt0280707	2001	Helen Mirren	Gosford Park	11:53	11.883	non-lead
+nm0001749	2001	tt0280707	gosford.park_tt0280707	2001	Maggie Smith	Gosford Park	18:13	18.217	non-lead
+nm0000113	2013	tt1454468	gravity	2013	Sandra Bullock	Gravity	1:12:26	72.433	lead
+nm0001557	2019	tt6966692	green.book_tt6966692	2018	Viggo Mortensen	Green Book	1:30:44	90.733	lead
+nm0991810	2019	tt6966692	green.book_tt6966692	2018	Mahershala Ali	Green Book	1:06:38	66.633	non-lead
+nm0003817	1999	tt0120689	green.mile_tt0120689	1999	Michael Clarke Duncan	The Green Mile	37:18:00	37.3	non-lead
+nm0724732	1984	tt0087365	greystoke	1984	Ralph Richardson	Greystoke: The Legend of Tarzan, Lord of the Apes	20:20	20.333	non-lead
+nm0001378	1990	tt0099703	grifters_tt0099703	1990	Anjelica Huston	The Grifters	42:48:00	42.8	lead
+nm0000906	1990	tt0099703	grifters_tt0099703	1990	Annette Bening	The Grifters	34:23:00	34.383	non-lead
+nm1940449	2016	tt2119532	hacksaw.ridge_tt2119532	2016	Andrew Garfield	Hacksaw Ridge	1:13:25	73.417	lead
+nm0000323	1986	tt0091167	hannah.and.her._tt0091167	1986	Michael Caine	Hannah and Her Sisters	24:23:00	24.383	non-lead
+nm0001848	1986	tt0091167	hannah.and.her._tt0091167	1986	Dianne Wiest	Hannah and Her Sisters	27:35:00	27.583	non-lead
+nm0000313	2016	tt2582782	hell.or.high.wa_tt2582782	2016	Jeff Bridges	Hell or High Water	34:36:00	34.6	non-lead
+nm0205626	2011	tt1454029	help	2011	Viola Davis	The Help	46:10:00	46.167	lead
+nm0818055	2011	tt1454029	help	2011	Octavia Spencer	The Help	34:53:00	34.883	non-lead
+nm1567113	2011	tt1454029	help	2011	Jessica Chastain	The Help	16:29	16.483	non-lead
+nm0818055	2017	tt4846340	hidden_figures	2016	Octavia Spencer	Hidden Figures	24:31:00	24.517	non-lead
+nm0000454	1987	tt0091217	hoosiers_tt0091217	1986	Dennis Hopper	Hoosiers	16:42	16.7	non-lead
+nm0000332	2004	tt0395169	hotel.rwanda_tt0395169	2004	Don Cheadle	Hotel Rwanda	1:21:15	81.25	lead
+nm0645683	2004	tt0395169	hotel.rwanda_tt0395169	2004	Sophie Okonedo	Hotel Rwanda	29:37:00	29.617	non-lead
+nm0000173	2002	tt0274558	hours_tt0274558	2002	Nicole Kidman	The Hours	23:30	23.5	lead
+nm0000194	2002	tt0274558	hours_tt0274558	2002	Julianne Moore	The Hours	27:41:00	27.683	non-lead
+nm0000438	2002	tt0274558	hours_tt0274558	2002	Ed Harris	The Hours	11:10	11.167	non-lead
+nm0000668	1992	tt0104454	howards.end_tt0104454	1992	Emma Thompson	Howards End	1:02:31	62.517	lead
+nm0000603	1992	tt0104454	howards.end_tt0104454	1992	Vanessa Redgrave	Howards End	16:00	16	non-lead
+nm0000243	2000	tt0174856	hurricane_tt0174856	1999	Denzel Washington	The Hurricane	1:15:41	75.683	lead
+nm0719637	2008	tt0887912	hurt.locker_tt0887912	2009	Jeremy Renner	The Hurt Locker	1:17:15	77.25	lead
+nm0005093	2018	tt7125860	if.beale.street_tt7125860	2018	Regina King	If Beale Street Could Talk	25:10:00	25.167	non-lead
+nm0873385	1994	tt0110877	il.postino_tt0110877	1995	Massimo Troisi	The Postman	1:10:26	70.433	lead
+nm1212722	2015	tt2084970	imitation.game_tt2084970	2014	Benedict Cumberbatch	The Imitation Game	1:11:41	71.683	lead
+nm0461136	2015	tt2084970	imitation.game_tt2084970	2014	Keira Knightley	The Imitation Game	28:13:00	28.217	non-lead
+nm0000349	1997	tt0119360	in_and_out	1997	Joan Cusack	In & Out	18:49	18.817	non-lead
+nm0000518	1993	tt0107206	in_the_line_of_fire	1993	John Malkovich	In the Line of Fire	33:24:00	33.4	non-lead
+nm0000651	2001	tt0247425	in.the.bedroom_tt0247425	2001	Sissy Spacek	In the Bedroom	38:42:00	38.7	lead
+nm0929489	2001	tt0247425	in.the.bedroom_tt0247425	2001	Tom Wilkinson	In the Bedroom	1:10:43	70.717	lead
+nm0000673	2001	tt0247425	in.the.bedroom_tt0247425	2001	Marisa Tomei	In the Bedroom	20:52	20.867	non-lead
+nm0000358	1993	tt0107207	in.the.name.of._tt0107207	1993	Daniel Day-Lewis	In the Name of the Father	1:18:03	78.05	lead
+nm0000592	1993	tt0107207	in.the.name.of._tt0107207	1993	Pete Postlethwaite	In the Name of the Father	33:06:00	33.1	non-lead
+nm0000668	1993	tt0107207	in.the.name.of._tt0107207	1993	Emma Thompson	In the Name of the Father	13:07	13.117	non-lead
+nm0910607	2009	tt0361748	inglourious_basterds	2009	Christoph Waltz	Inglourious Basterds	40:19:00	40.317	non-lead
+nm0000128	1999	tt0140352	insider_tt0140352	1999	Russell Crowe	The Insider	1:09:54	69.9	lead
+nm0000658	2014	tt2180411	into.the.woods_tt2180411	2014	Meryl Streep	Into the Woods	22:22	22.367	non-lead
+nm0000199	2019	tt1302006	irishman_tt1302006	2019	Al Pacino	The Irishman	53:58:00	53.967	non-lead
+nm0000582	2019	tt1302006	irishman_tt1302006	2019	Joe Pesci	The Irishman	43:22:00	43.367	non-lead
+nm0005162	1985	tt0089360	jagged_edge	1985	Robert Loggia	Jagged Edge	9:34	9.567	non-lead
+nm0000129	1996	tt0116695	jerry_maguire	1996	Tom Cruise	Jerry Maguire	1:31:12	91.2	lead
+nm0000421	1996	tt0116695	jerry_maguire	1996	Cuba Gooding Jr.	Jerry Maguire	27:12:00	27.2	non-lead
+nm0000169	1992	tt0102138	jfk_tt0102138	1991	Tommy Lee Jones	JFK	16:07	16.117	non-lead
+nm0424060	2020	tt2584384	jojo.rabbit_tt2584384	2019	Scarlett Johansson	Jojo Rabbit	15:36	15.6	non-lead
+nm0001618	2019	tt7286456	joker	2019	Joaquin Phoenix	Joker	1:43:44	103.733	lead
+nm2225369	2015	tt2446980	joy_tt2446980	2015	Jennifer Lawrence	Joy	1:30:01	90.017	lead
+nm2257207	2021	tt9784798	judas.and.the.b_tt9784798	2020	Daniel Kaluuya	Judas and the Black Messiah	46:09:00	46.15	non-lead
+nm3147751	2021	tt9784798	judas.and.the.b_tt9784798	2020	LaKeith Stanfield	Judas and the Black Messiah	49:51:00	49.85	non-lead
+nm0680983	2008	tt0467406	juno	2007	Elliot Page	Juno	1:12:54	72.9	lead
+nm0001552	1984	tt0087538	karate_kid	1984	Pat Morita	The Karate Kid	58:36:00	58.6	non-lead
+nm0000906	2010	tt0842926	kids.are.all.ri_tt0842926	2010	Annette Bening	The Kids Are All Right	42:31:00	42.517	lead
+nm0749263	2010	tt0842926	kids.are.all.ri_tt0842926	2010	Mark Ruffalo	The Kids Are All Right	41:03:00	41.05	non-lead
+nm0001832	1985	tt0087553	killing_fields	1984	Sam Waterston	The Killing Fields	57:23:00	57.383	lead
+nm0628955	1985	tt0087553	killing_fields	1984	Haing S. Ngor	The Killing Fields	1:03:28	63.467	non-lead
+nm0000226	2021	tt9620288	king.richard_tt9620288	2021	Will Smith	King Richard	1:30:10	90.167	lead
+nm0254712	2021	tt9620288	king.richard_tt9620288	2021	Aunjanue Ellis	King Richard	38:35:00	38.583	non-lead
+nm0000147	2011	tt1504320	kings_speech	2010	Colin Firth	The King's Speech	1:14:24	74.4	lead
+nm0000307	2011	tt1504320	kings_speech	2010	Helena Bonham Carter	The King's Speech	21:33	21.55	non-lead
+nm0001691	2011	tt1504320	kings_speech	2010	Geoffrey Rush	The King's Speech	40:48:00	40.8	non-lead
+nm0001473	2004	tt0362269	kinsey_tt0362269	2004	Laura Linney	Kinsey	32:02:00	32.033	non-lead
+nm0331516	2017	tt3783958	la_la_land	2016	Ryan Gosling	La La Land	1:14:56	74.933	lead
+nm1297015	2017	tt3783958	la_la_land	2016	Emma Stone	La La Land	1:20:41	80.683	lead
+nm1519680	2017	tt4925292	lady.bird_tt4925292	2017	Saoirse Ronan	Lady Bird	1:10:51	70.85	lead
+nm0582418	2017	tt4925292	lady.bird_tt4925292	2017	Laurie Metcalf	Lady Bird	20:51	20.85	non-lead
+nm0001845	2006	tt0455590	last.king.of.sc_tt0455590	2006	Forest Whitaker	The Last King of Scotland	42:34:00	42.567	lead
+nm0913822	2003	tt0325710	last.samurai_tt0325710	2003	Ken Watanabe	The Last Samurai	33:49:00	33.817	non-lead
+nm0000115	1996	tt0113627	leaving.las.veg_tt0113627	1995	Nicolas Cage	Leaving Las Vegas	1:06:27	66.45	lead
+nm0000223	1996	tt0113627	leaving.las.veg_tt0113627	1995	Elisabeth Shue	Leaving Las Vegas	1:07:01	67.017	lead
+nm0413168	2012	tt1707386	les.misrables_tt1707386	2012	Hugh Jackman	Les Misérables	58:18:00	58.3	lead
+nm0004266	2012	tt1707386	les.misrables_tt1707386	2012	Anne Hathaway	Les Misérables	21:01	21.017	non-lead
+nm0000358	2012	tt0443272	lincoln	2012	Daniel Day-Lewis	Lincoln	1:17:06	77.1	lead
+nm0000169	2012	tt0443272	lincoln	2012	Tommy Lee Jones	Lincoln	19:10	19.167	non-lead
+nm0000398	2012	tt0443272	lincoln	2012	Sally Field	Lincoln	15:05	15.083	non-lead
+nm0000173	2017	tt3741834	lion_tt3741834	2016	Nicole Kidman	Lion	16:13	16.217	non-lead
+nm2353862	2017	tt3741834	lion_tt3741834	2016	Dev Patel	Lion	43:04:00	43.067	non-lead
+nm0000213	1995	tt0110367	little_women	1994	Winona Ryder	Little Women	1:14:11	74.183	lead
+nm1519680	2020	tt3281548	little_women_2020	2019	Saoirse Ronan	Little Women	1:15:01	75.017	lead
+nm6073955	2020	tt3281548	little_women_2020	2019	Florence Pugh	Little Women	42:06:00	42.1	non-lead
+nm0000273	2006	tt0449059	little.miss.sun_tt0449059	2006	Alan Arkin	Little Miss Sunshine	14:20	14.333	non-lead
+nm1113550	2006	tt0449059	little.miss.sun_tt0449059	2006	Abigail Breslin	Little Miss Sunshine	34:21:00	34.35	non-lead
+nm0000195	2003	tt0335266	lost.in.transla_tt0335266	2003	Bill Murray	Lost in Translation	1:00:41	60.683	lead
+nm0005212	2001	tt0120737	lotr_fellowship	2001	Ian McKellen	The Lord of the Rings: The Fellowship of the Ring	45:58:00	45.967	non-lead
+nm0001329	1994	tt0110428	madness.of.king_tt0110428	1994	Nigel Hawthorne	The Madness of King George	57:59:00	57.983	lead
+nm0000545	1994	tt0110428	madness.of.king_tt0110428	1994	Helen Mirren	The Madness of King George	20:15	20.25	non-lead
+nm0000243	1992	tt0104797	malcolm.x_tt0104797	1992	Denzel Washington	Malcolm X	2:21:58	141.967	lead
+nm0000729	2016	tt4034228	manchester.by.t_tt4034228	2016	Casey Affleck	Manchester by the Sea	1:40:02	100.033	lead
+nm0931329	2016	tt4034228	manchester.by.t_tt4034228	2016	Michelle Williams	Manchester by the Sea	11:03	11.05	non-lead
+nm2348627	2016	tt4034228	manchester.by.t_tt4034228	2016	Lucas Hedges	Manchester by the Sea	53:21:00	53.35	non-lead
+nm0424060	2019	tt7653254	marriage.story_tt7653254	2019	Scarlett Johansson	Marriage Story	1:05:19	65.317	lead
+nm3485845	2019	tt7653254	marriage.story_tt7653254	2019	Adam Driver	Marriage Story	1:25:03	85.05	lead
+nm0000368	2019	tt7653254	marriage.story_tt7653254	2019	Laura Dern	Marriage Story	18:36	18.6	non-lead
+nm0001777	1988	tt0095593	married.to.the._tt0095593	1988	Dean Stockwell	Married to the Mob	25:49:00	25.817	non-lead
+nm0000354	2015	tt3659388	martian	2015	Matt Damon	The Martian	1:02:01	62.017	lead
+nm0001618	2012	tt1560747	master_tt1560747	2012	Joaquin Phoenix	The Master	1:31:44	91.733	lead
+nm0000450	2012	tt1560747	master_tt1560747	2012	Philip Seymour Hoffman	The Master	1:05:11	65.183	non-lead
+nm0010736	2012	tt1560747	master_tt1560747	2012	Amy Adams	The Master	26:25:00	26.417	non-lead
+nm0001673	1980	tt0081150	melvin.and.howa_tt0081150	1980	Jason Robards	Melvin and Howard	14:19	14.317	non-lead
+nm0005460	1980	tt0081150	melvin.and.howa_tt0081150	1980	Mary Steenburgen	Melvin and Howard	28:51:00	28.85	non-lead
+nm0000576	2008	tt1013753	milk_tt1013753	2008	Sean Penn	Milk	1:27:25	87.417	lead
+nm0000982	2008	tt1013753	milk_tt1013753	2008	Josh Brolin	Milk	14:35	14.583	non-lead
+nm0000142	2005	tt0405159	million_dollar_baby	2004	Clint Eastwood	Million Dollar Baby	1:16:16	76.267	lead
+nm0005476	2005	tt0405159	million_dollar_baby	2004	Hilary Swank	Million Dollar Baby	1:07:10	67.167	lead
+nm0000151	2005	tt0405159	million_dollar_baby	2004	Morgan Freeman	Million Dollar Baby	36:24:00	36.4	non-lead
+nm3081796	2020	tt10633456	minari_tt10633456	2020	Steven Yeun	Minari	48:28:00	48.467	lead
+nm0950926	2020	tt10633456	minari_tt10633456	2020	Youn Yuh-jung	Minari	26:02:00	26.033	non-lead
+nm0000002	1996	tt0117057	mirror.has.two._tt0117057	1996	Lauren Bacall	The Mirror Has Two Faces	15:41	15.683	non-lead
+nm0000870	1990	tt0100157	misery_tt0100157	1990	Kathy Bates	Misery	50:53:00	50.883	lead
+nm0000493	1982	tt0084335	missing_tt0084335	1982	Jack Lemmon	Missing	1:07:28	67.467	lead
+nm0000651	1982	tt0084335	missing_tt0084335	1982	Sissy Spacek	Missing	1:05:07	65.117	lead
+nm0000432	1989	tt0095647	mississippi.bur_tt0095647	1988	Gene Hackman	Mississippi Burning	53:46:00	53.767	lead
+nm0000531	1989	tt0095647	mississippi.bur_tt0095647	1988	Frances McDormand	Mississippi Burning	13:08	13.133	non-lead
+nm0001364	1986	tt0091538	mona.lisa_tt0091538	1986	Bob Hoskins	Mona Lisa	1:26:54	86.9	lead
+nm0000093	2011	tt1210166	moneyball_tt1210166	2011	Brad Pitt	Moneyball	1:22:36	82.6	lead
+nm1706767	2011	tt1210166	moneyball_tt1210166	2011	Jonah Hill	Moneyball	34:13:00	34.217	non-lead
+nm0365140	2016	tt4975722	moonlight_tt4975722	2016	Naomie Harris	Moonlight	12:35	12.583	non-lead
+nm0991810	2016	tt4975722	moonlight_tt4975722	2016	Mahershala Ali	Moonlight	20:36	20.6	non-lead
+nm0000333	1988	tt0093565	moonstruck	1987	Cher	Moonstruck	46:57:00	46.95	lead
+nm0001156	1988	tt0093565	moonstruck	1987	Olympia Dukakis	Moonstruck	19:54	19.9	non-lead
+nm0306696	1988	tt0093565	moonstruck	1987	Vincent Gardenia	Moonstruck	16:08	16.133	non-lead
+nm0000173	2001	tt0203009	moulin.rouge_tt0203009	2001	Nicole Kidman	Moulin Rouge!	1:05:27	65.45	lead
+nm0000377	1996	tt0113862	mr_hollands_opus	1995	Richard Dreyfuss	Mr. Holland's Opus	1:45:32	105.533	lead
+nm0001132	1997	tt0119280	mrs..brown_tt0119280	1997	Judi Dench	Mrs. Brown	41:29:00	41.483	lead
+nm0001132	2005	tt0413015	mrs..henderson._tt0413015	2005	Judi Dench	Mrs. Henderson Presents	51:29:00	51.483	lead
+nm0001258	1986	tt0089643	murphys.romance_tt0089643	1985	James Garner	Murphy's Romance	48:50:00	48.833	lead
+nm0000673	1992	tt0104952	my.cousin.vinny_tt0104952	1992	Marisa Tomei	My Cousin Vinny	35:22:00	35.367	non-lead
+nm0000564	1982	tt0084370	my.favorite.yea_tt0084370	1982	Peter O'Toole	My Favorite Year	41:32:00	41.533	lead
+nm0000358	1989	tt0097937	my.left.foot_tt0097937	1989	Daniel Day-Lewis	My Left Foot	50:10:00	50.167	lead
+nm0002084	1989	tt0097937	my.left.foot_tt0097937	1989	Brenda Fricker	My Left Foot	32:28:00	32.467	non-lead
+nm0931329	2011	tt1655420	my.week.with.ma_tt1655420	2011	Michelle Williams	My Week with Marilyn	48:25:00	48.417	lead
+nm0000110	2011	tt1655420	my.week.with.ma_tt1655420	2011	Kenneth Branagh	My Week with Marilyn	21:12	21.2	non-lead
+nm0000576	2003	tt0327056	mystic.river_tt0327056	2003	Sean Penn	Mystic River	47:50:00	47.833	lead
+nm0000209	2003	tt0327056	mystic.river_tt0327056	2003	Tim Robbins	Mystic River	33:36:00	33.6	non-lead
+nm0001315	2003	tt0327056	mystic.river_tt0327056	2003	Marcia Gay Harden	Mystic River	16:11	16.183	non-lead
+nm0000335	1984	tt0087781	natural	1984	Glenn Close	The Natural	14:50	14.833	non-lead
+nm0001136	2013	tt1821549	nebraska_tt1821549	2013	Bruce Dern	Nebraska	1:07:58	67.967	lead
+nm0820053	2013	tt1821549	nebraska_tt1821549	2013	June Squibb	Nebraska	22:23	22.383	non-lead
+nm0000149	1994	tt0110638	nell_tt0110638	1994	Jodie Foster	Nell	52:58:00	52.967	lead
+nm0004851	2009	tt0875034	nine_tt0875034	2009	Penélope Cruz	Nine	13:15	13.25	non-lead
+nm0000849	2007	tt0477348	no.country.for._tt0477348	2007	Javier Bardem	No Country for Old Men	28:54:00	28.9	non-lead
+nm0000056	1995	tt0110684	nobodys.fool_tt0110684	1994	Paul Newman	Nobody's Fool	1:12:46	72.767	lead
+nm0000531	2020	tt9770150	nomadland_tt9770150	2020	Frances McDormand	Nomadland	1:20:56	80.933	lead
+nm0000700	1982	tt0084434	officer_and_a_gentleman	1982	Debra Winger	An Officer and a Gentleman	32:41:00	32.683	lead
+nm0001283	1982	tt0084434	officer_and_a_gentleman	1982	Louis Gossett Jr.	An Officer and a Gentleman	32:23:00	32.383	non-lead
+nm0000020	1981	tt0082846	on_golden_pond	1981	Henry Fonda	On Golden Pond	1:07:40	67.667	lead
+nm0000031	1981	tt0082846	on_golden_pond	1981	Katharine Hepburn	On Golden Pond	50:08:00	50.133	lead
+nm0000404	1981	tt0082846	on_golden_pond	1981	Jane Fonda	On Golden Pond	20:19	20.317	non-lead
+nm0000138	2019	tt7131622	once_upon_a_time_in_hollywood	2019	Leonardo DiCaprio	Once Upon a Time in Hollywood	1:01:12	61.2	lead
+nm0000093	2019	tt7131622	once_upon_a_time_in_hollywood	2019	Brad Pitt	Once Upon a Time in Hollywood	55:12:00	55.2	non-lead
+nm0001546	1980	tt0081283	ordinary_people	1980	Mary Tyler Moore	Ordinary People	32:46:00	32.767	lead
+nm0000459	1980	tt0081283	ordinary_people	1980	Timothy Hutton	Ordinary People	1:05:04	65.067	non-lead
+nm0002139	1980	tt0081283	ordinary_people	1980	Judd Hirsch	Ordinary People	18:23	18.383	non-lead
+nm0000658	1986	tt0089755	out_of_africa	1985	Meryl Streep	Out of Africa	1:52:57	112.95	lead
+nm0001970	1986	tt0089755	out_of_africa	1985	Klaus Maria Brandauer	Out of Africa	20:17	20.283	non-lead
+nm0001848	1989	tt0098067	parenthood	1989	Dianne Wiest	Parenthood	24:25:00	24.417	non-lead
+nm0000678	1986	tt0091738	peggy_sue_got_married_fs	1986	Kathleen Turner	Peggy Sue Got Married	1:16:11	76.183	lead
+nm0000437	1996	tt0117318	people.vs..larr_tt0117318	1996	Woody Harrelson	The People vs. Larry Flynt	1:10:44	70.733	lead
+nm0000358	2017	tt5776858	phantom.thread_tt5776858	2017	Daniel Day-Lewis	Phantom Thread	1:26:42	86.7	lead
+nm0544334	2017	tt5776858	phantom.thread_tt5776858	2017	Lesley Manville	Phantom Thread	25:58:00	25.967	non-lead
+nm0000158	1994	tt0107818	philadelphia	1993	Tom Hanks	Philadelphia	54:55:00	54.917	lead
+nm0001132	2013	tt2431286	philomena_tt2431286	2013	Judi Dench	Philomena	51:28:00	51.467	lead
+nm0004778	2002	tt0253474	pianist_tt0253474	2002	Adrien Brody	The Pianist	1:37:27	97.45	lead
+nm0000456	1993	tt0107822	piano_tt0107822	1993	Holly Hunter	The Piano	1:08:01	68.017	lead
+nm0001593	1993	tt0107822	piano_tt0107822	1993	Anna Paquin	The Piano	36:56:00	36.933	non-lead
+nm0000136	2003	tt0325980	pirates_black_pearl	2003	Johnny Depp	Pirates of the Caribbean: The Curse of the Black Pearl	49:32:00	49.533	lead
+nm0000398	1984	tt0087921	places.in.the.h_tt0087921	1984	Sally Field	Places in the Heart	45:14:00	45.233	lead
+nm0000518	1984	tt0087921	places.in.the.h_tt0087921	1984	John Malkovich	Places in the Heart	19:16	19.267	non-lead
+nm0001080	1984	tt0087921	places.in.the.h_tt0087921	1984	Lindsay Crouse	Places in the Heart	16:45	16.75	non-lead
+nm0000297	1987	tt0091763	platoon	1986	Tom Berenger	Platoon	25:40:00	25.667	non-lead
+nm0000353	1987	tt0091763	platoon	1986	Willem Dafoe	Platoon	16:39	16.65	non-lead
+nm0000658	2018	tt6294822	post_tt6294822	2017	Meryl Streep	The Post	46:10:00	46.167	lead
+nm0000658	1990	tt0100395	postcards.from._tt0100395	1990	Meryl Streep	Postcards from the Edge	1:28:14	88.233	lead
+nm1212722	2021	tt10293406	power.of.the.do_tt10293406	2021	Benedict Cumberbatch	The Power of the Dog	58:37:00	58.617	lead
+nm0000379	2021	tt10293406	power.of.the.do_tt10293406	2021	Kirsten Dunst	The Power of the Dog	36:21:00	36.35	non-lead
+nm0687146	2021	tt10293406	power.of.the.do_tt10293406	2021	Jesse Plemons	The Power of the Dog	33:46:00	33.767	non-lead
+nm2240346	2021	tt10293406	power.of.the.do_tt10293406	2021	Kodi Smit-McPhee	The Power of the Dog	36:02:00	36.033	non-lead
+nm2829737	2009	tt0929632	precious_tt0929632	2009	Gabourey Sidibe	Precious	1:12:34	72.567	lead
+nm0594898	2009	tt0929632	precious_tt0929632	2009	Mo'Nique	Precious	24:58:00	24.967	non-lead
+nm0000210	1990	tt0100405	pretty_woman	1990	Julia Roberts	Pretty Woman	1:20:00	80	lead
+nm0461136	2005	tt0414387	pride..prejudic_tt0414387	2005	Keira Knightley	Pride and Prejudice	1:27:10	87.167	lead
+nm0001570	1996	tt0117381	primal_fear	1996	Edward Norton	Primal Fear	34:54:00	34.9	non-lead
+nm0000870	1998	tt0119942	primary.colors_tt0119942	1998	Kathy Bates	Primary Colors	23:51	23.85	non-lead
+nm0000560	1992	tt0102713	prince_of_tides	1991	Nick Nolte	The Prince of Tides	1:40:49	100.817	lead
+nm0625075	1992	tt0102713	prince_of_tides	1991	Kate Nelligan	The Prince of Tides	11:40	11.667	non-lead
+nm0000443	1980	tt0081375	private_benjamin_fs	1980	Goldie Hawn	Private Benjamin	1:22:46	82.767	lead
+nm0107281	1980	tt0081375	private_benjamin_fs	1980	Eileen Brennan	Private Benjamin	16:33	16.55	non-lead
+nm0000197	1985	tt0089841	prizzis.honor_tt0089841	1985	Jack Nicholson	Prizzi's Honor	1:06:15	66.25	lead
+nm0001378	1985	tt0089841	prizzis.honor_tt0089841	1985	Anjelica Huston	Prizzi's Honor	17:56	17.933	non-lead
+nm0382676	1985	tt0089841	prizzis.honor_tt0089841	1985	William Hickey	Prizzi's Honor	22:26	22.433	non-lead
+nm1659547	2020	tt9620292	promising.young_tt9620292	2020	Carey Mulligan	Promising Young Woman	1:23:09	83.15	lead
+nm0000237	1994	tt0110912	pulp_fiction	1994	John Travolta	Pulp Fiction	51:27:00	51.45	lead
+nm0000168	1994	tt0110912	pulp_fiction	1994	Samuel L. Jackson	Pulp Fiction	39:22:00	39.367	non-lead
+nm0000235	1994	tt0110912	pulp_fiction	1994	Uma Thurman	Pulp Fiction	21:08	21.133	non-lead
+nm0000226	2006	tt0454921	pursuit_of_happyness	2006	Will Smith	The Pursuit of Happyness	1:42:19	102.317	lead
+nm0000545	2006	tt0436697	queen_tt0436697	2006	Helen Mirren	The Queen	47:15:00	47.25	lead
+nm0006890	1994	tt0110932	quiz.show_tt0110932	1994	Paul Scofield	Quiz Show	13:20	13.333	non-lead
+nm0000134	1980	tt0081398	raging_bull	1980	Robert De Niro	Raging Bull	1:36:09	96.15	lead
+nm0000582	1980	tt0081398	raging_bull	1980	Joe Pesci	Raging Bull	44:55:00	44.917	non-lead
+nm0001550	1980	tt0081398	raging_bull	1980	Cathy Moriarty	Raging Bull	30:48:00	30.8	non-lead
+nm0001527	1981	tt0082970	ragtime_tt0082970	1981	Elizabeth McGovern	Ragtime	21:52	21.867	non-lead
+nm0738415	1981	tt0082970	ragtime_tt0082970	1981	Howard E. Rollins Jr.	Ragtime	31:30:00	31.5	non-lead
+nm0000163	1988	tt0095953	rainman	1988	Dustin Hoffman	Rain Man	1:17:56	77.933	lead
+nm0004937	2004	tt0350258	ray_tt0350258	2004	Jamie Foxx	Ray	1:39:35	99.583	lead
+nm0000701	2008	tt0976051	reader_tt0976051	2008	Kate Winslet	The Reader	41:55:00	41.917	lead
+nm0000473	1981	tt0082979	reds	1981	Diane Keaton	Reds	1:31:26	91.433	lead
+nm0000886	1981	tt0082979	reds	1981	Warren Beatty	Reds	1:42:33	102.55	lead
+nm0000197	1981	tt0082979	reds	1981	Jack Nicholson	Reds	14:38	14.633	non-lead
+nm0822972	1981	tt0082979	reds	1981	Maureen Stapleton	Reds	9:15	9.25	non-lead
+nm0000164	1993	tt0107943	remains.of.the._tt0107943	1993	Anthony Hopkins	The Remains of the Day	1:21:07	81.117	lead
+nm0000668	1993	tt0107943	remains.of.the._tt0107943	1993	Emma Thompson	The Remains of the Day	42:05:00	42.083	lead
+nm0002018	1983	tt0084591	reuben.reuben_tt0084591	1983	Tom Conti	Reuben, Reuben	1:20:01	80.017	lead
+nm0000138	2016	tt1663202	revenant	2015	Leonardo DiCaprio	The Revenant	1:32:28	92.467	lead
+nm0362766	2016	tt1663202	revenant	2015	Tom Hardy	The Revenant	42:07:00	42.117	non-lead
+nm0000460	1990	tt0100486	reversal.of.fortune_tt0100486	1990	Jeremy Irons	Reversal of Fortune	45:00:00	45	lead
+nm0788335	2008	tt0959337	revolutionary.r_tt0959337	2008	Michael Shannon	Revolutionary Road	9:02	9.033	non-lead
+nm0000870	2020	tt3513548	richard.jewell_tt3513548	2019	Kathy Bates	Richard Jewell	25:06:00	25.1	non-lead
+nm0001731	1983	tt0086197	right.stuff_tt0086197	1983	Sam Shepard	The Right Stuff	26:21:00	26.35	non-lead
+nm0000056	2002	tt0257044	road_to_perdition	2002	Paul Newman	Road to Perdition	15:55	15.917	non-lead
+nm8611957	2018	tt6155172	roma_tt6155172	2018	Yalitza Aparicio	Roma	1:37:30	97.5	lead
+nm0211920	2018	tt6155172	roma_tt6155172	2018	Marina de Tavira	Roma	30:54:00	30.9	non-lead
+nm0488953	2015	tt3170832	room_tt3170832	2015	Brie Larson	Room	1:05:46	65.767	lead
+nm0000685	1985	tt0089941	runaway.train_tt0089941	1985	Jon Voight	Runaway Train	44:32:00	44.533	lead
+nm0000616	1985	tt0089941	runaway.train_tt0089941	1985	Eric Roberts	Runaway Train	41:02:00	41.033	non-lead
+nm0000203	1988	tt0096018	running.on.empty_tt0096018	1988	River Phoenix	Running on Empty	1:05:12	65.2	non-lead
+nm0000158	1998	tt0120815	saving_private_ryan	1998	Tom Hanks	Saving Private Ryan	1:26:41	86.683	lead
+nm0000199	1993	tt0105323	scent_of_a_woman	1992	Al Pacino	Scent of a Woman	1:35:48	95.8	lead
+nm0000553	1994	tt0108052	schindlers_list	1993	Liam Neeson	Schindler's List	1:17:32	77.533	lead
+nm0000146	1994	tt0108052	schindlers_list	1993	Ralph Fiennes	Schindler's List	36:20:00	36.333	non-lead
+nm0000668	1996	tt0114388	sense.and.sensi_tt0114388	1995	Emma Thompson	Sense and Sensibility	1:14:28	74.467	lead
+nm0000701	1996	tt0114388	sense.and.sensi_tt0114388	1995	Kate Winslet	Sense and Sensibility	59:32:00	59.533	non-lead
+nm0000700	1994	tt0108101	shadowlands_tt0108101	1993	Debra Winger	Shadowlands	57:11:00	57.183	lead
+nm0000569	1999	tt0138097	shakespeare_in_love	1998	Gwyneth Paltrow	Shakespeare in Love	50:16:00	50.267	lead
+nm0001132	1999	tt0138097	shakespeare_in_love	1998	Judi Dench	Shakespeare in Love	5:52	5.867	non-lead
+nm0001691	1999	tt0138097	shakespeare_in_love	1998	Geoffrey Rush	Shakespeare in Love	16:23	16.383	non-lead
+nm1020089	2017	tt5580390	shape.of.water_tt5580390	2017	Sally Hawkins	The Shape of Water	59:01:00	59.017	lead
+nm0420955	2017	tt5580390	shape.of.water_tt5580390	2017	Richard Jenkins	The Shape of Water	25:45:00	25.75	non-lead
+nm0818055	2017	tt5580390	shape.of.water_tt5580390	2017	Octavia Spencer	The Shape of Water	20:39	20.65	non-lead
+nm0000151	1994	tt0111161	shawshank.redem_tt0111161	1994	Morgan Freeman	The Shawshank Redemption	1:01:53	61.883	lead
+nm0001691	1996	tt0117631	shine_tt0117631	1996	Geoffrey Rush	Shine	31:27:00	31.45	lead
+nm0000090	1996	tt0117631	shine_tt0117631	1996	Armin Mueller-Stahl	Shine	28:34:00	28.567	non-lead
+nm0172604	1989	tt0098319	shirley.valentine_tt0098319	1989	Pauline Collins	Shirley Valentine	1:19:25	79.417	lead
+nm0000515	2005	tt0375063	sideways_tt0375063	2004	Virginia Madsen	Sideways	22:42	22.7	non-lead
+nm0002006	2005	tt0375063	sideways_tt0375063	2004	Thomas Haden Church	Sideways	1:00:34	60.567	non-lead
+nm0000149	1991	tt0102926	silence_of_the_lambs	1991	Jodie Foster	The Silence of the Lambs	56:02:00	56.033	lead
+nm0000164	1991	tt0102926	silence_of_the_lambs	1991	Anthony Hopkins	The Silence of the Lambs	24:52:00	24.867	lead
+nm0000658	1984	tt0086312	silkwood	1983	Meryl Streep	Silkwood	1:43:17	103.283	lead
+nm0000333	1984	tt0086312	silkwood	1983	Cher	Silkwood	31:43:00	31.717	non-lead
+nm0177896	2013	tt1045658	silver_linings_playbook	2012	Bradley Cooper	Silver Linings Playbook	1:30:23	90.383	lead
+nm2225369	2013	tt1045658	silver_linings_playbook	2012	Jennifer Lawrence	Silver Linings Playbook	50:14:00	50.233	lead
+nm0000134	2013	tt1045658	silver_linings_playbook	2012	Robert De Niro	Silver Linings Playbook	27:37:00	27.617	non-lead
+nm0915865	2013	tt1045658	silver_linings_playbook	2012	Jacki Weaver	Silver Linings Playbook	16:56	16.933	non-lead
+nm0001057	1999	tt0167404	sixth_sense	1999	Toni Collette	The Sixth Sense	17:10	17.167	non-lead
+nm0005286	1999	tt0167404	sixth_sense	1999	Haley Joel Osment	The Sixth Sense	47:20:00	47.333	non-lead
+nm0251986	2010	tt1285016	social.network.movie_tt1285016	2010	Jesse Eisenberg	The Social Network	1:02:15	62.25	lead
+nm0000473	2003	tt0337741	somethings.gott_tt0337741	2003	Diane Keaton	Something's Gotta Give	1:15:11	75.183	lead
+nm0000658	1983	tt0084707	sophies.choice_tt0084707	1982	Meryl Streep	Sophie's Choice	1:41:14	101.233	lead
+nm1981893	2019	tt5363618	sound.of.metal_tt5363618	2020	Riz Ahmed	Sound of Metal	1:34:22	94.367	lead
+nm0705152	2019	tt5363618	sound.of.metal_tt5363618	2020	Paul Raci	Sound of Metal	18:21	18.35	non-lead
+nm0749263	2015	tt1895587	spotlight_tt1895587	2015	Mark Ruffalo	Spotlight	40:31:00	40.517	non-lead
+nm1046097	2015	tt1895587	spotlight_tt1895587	2015	Rachel McAdams	Spotlight	31:12:00	31.2	non-lead
+nm0177896	2018	tt1517451	star_is_born	2018	Bradley Cooper	A Star Is Born	1:35:13	95.217	lead
+nm3078932	2018	tt1517451	star_is_born	2018	Lady Gaga	A Star Is Born	1:30:12	90.2	lead
+nm0000385	2018	tt1517451	star_is_born	2018	Sam Elliott	A Star Is Born	8:45	8.75	non-lead
+nm0000210	1989	tt0098384	steel.magnolias_tt0098384	1989	Julia Roberts	Steel Magnolias	37:19:00	37.317	non-lead
+nm0000564	1980	tt0081568	stunt.man_tt0081568	1980	Peter O'Toole	The Stunt Man	36:26:00	36.433	lead
+nm0000136	2007	tt0408236	sweeney.todd.th_tt0408236	2007	Johnny Depp	Sweeney Todd: The Demon Barber of Fleet Street	1:03:09	63.15	lead
+nm0000179	2000	tt0134119	talented.mr..ri_tt0134119	1999	Jude Law	The Talented Mr. Ripley	33:11:00	33.183	non-lead
+nm0000380	1983	tt0086423	tender.mercies_tt0086423	1983	Robert Duvall	Tender Mercies	55:41:00	55.683	lead
+nm0000511	1983	tt0086425	terms_of_endearment	1983	Shirley MacLaine	Terms of Endearment	54:20:00	54.333	lead
+nm0000700	1983	tt0086425	terms_of_endearment	1983	Debra Winger	Terms of Endearment	1:04:06	64.1	lead
+nm0000197	1983	tt0086425	terms_of_endearment	1983	Jack Nicholson	Terms of Endearment	26:50:00	26.833	non-lead
+nm0001475	1983	tt0086425	terms_of_endearment	1983	John Lithgow	Terms of Endearment	6:28	6.467	non-lead
+nm0428065	2014	tt2980516	theory.of.every_tt2980516	2014	Felicity Jones	The Theory of Everything	1:00:14	60.233	lead
+nm1519666	2014	tt2980516	theory.of.every_tt2980516	2014	Eddie Redmayne	The Theory of Everything	1:17:13	77.217	lead
+nm0000358	2007	tt0469494	there.will.be.b_tt0469494	2007	Daniel Day-Lewis	There Will Be Blood	1:57:00	117	lead
+nm0000531	2017	tt5027774	three.billboard_tt5027774	2017	Frances McDormand	Three Billboards Outside Ebbing, Missouri	53:19:00	53.317	lead
+nm0000437	2017	tt5027774	three.billboard_tt5027774	2017	Woody Harrelson	Three Billboards Outside Ebbing, Missouri	21:02	21.033	non-lead
+nm0005377	2017	tt5027774	three.billboard_tt5027774	2017	Sam Rockwell	Three Billboards Outside Ebbing, Missouri	38:52:00	38.867	non-lead
+nm0001649	1987	tt0094142	throw.momma.fro_tt0094142	1987	Anne Ramsey	Throw Momma from the Train	10:00	10	non-lead
+nm0000198	2011	tt1340800	tinker.tailor.s_tt1340800	2011	Gary Oldman	Tinker Tailor Soldier Spy	53:07:00	53.117	lead
+nm0000701	1997	tt0120338	titanic	1997	Kate Winslet	Titanic	1:26:29	86.483	lead
+nm0001784	1997	tt0120338	titanic	1997	Gloria Stuart	Titanic	12:38	12.633	non-lead
+nm0000163	1982	tt0084805	tootsie	1982	Dustin Hoffman	Tootsie	1:28:16	88.267	lead
+nm0000414	1982	tt0084805	tootsie	1982	Teri Garr	Tootsie	13:37	13.617	non-lead
+nm0001448	1982	tt0084805	tootsie	1982	Jessica Lange	Tootsie	29:28:00	29.467	non-lead
+nm0719637	2010	tt0840361	town	2010	Jeremy Renner	The Town	29:11:00	29.183	non-lead
+nm0000949	2022	tt14444726	tr_tt14444726	2022	Cate Blanchett	TÁR	2:15:15	135.25	lead
+nm0001125	2001	tt0181865	traffic	2000	Benicio Del Toro	Traffic	26:04:00	26.067	non-lead
+nm0000243	2001	tt0139654	training_day	2001	Denzel Washington	Training Day	1:13:16	73.267	lead
+nm0000160	2001	tt0139654	training_day	2001	Ethan Hawke	Training Day	1:14:27	74.45	non-lead
+nm0000375	2008	tt0942385	tropic_thunder	2008	Robert Downey Jr.	Tropic Thunder	35:57:00	35.95	non-lead
+nm0000313	2010	tt1403865	true_grit	2010	Jeff Bridges	True Grit	49:43:00	49.717	lead
+nm2794962	2010	tt1403865	true_grit	2010	Hailee Steinfeld	True Grit	1:00:21	60.35	non-lead
+nm0000438	1998	tt0120382	truman_show	1998	Ed Harris	The Truman Show	14:46	14.767	non-lead
+nm0001445	1988	tt0096316	tucker.the.man._tt0096316	1988	Martin Landau	Tucker: The Man and His Dream	32:05:00	32.083	non-lead
+nm0000178	2002	tt0250797	unfaithful_tt0250797	2002	Diane Lane	Unfaithful	1:15:03	75.05	lead
+nm0000142	1992	tt0105695	unforgiven	1992	Clint Eastwood	Unforgiven	57:25:00	57.417	lead
+nm0000432	1992	tt0105695	unforgiven	1992	Gene Hackman	Unforgiven	30:57:00	30.95	non-lead
+nm0000125	1987	tt0094226	untouchables	1987	Sean Connery	The Untouchables	33:33:00	33.55	non-lead
+nm0000123	2009	tt1193138	up.in.the.air_tt1193138	2009	George Clooney	Up in the Air	1:13:56	73.933	lead
+nm0267812	2009	tt1193138	up.in.the.air_tt1193138	2009	Vera Farmiga	Up in the Air	23:48	23.8	non-lead
+nm0447695	2009	tt1193138	up.in.the.air_tt1193138	2009	Anna Kendrick	Up in the Air	33:45:00	33.75	non-lead
+nm0000228	1995	tt0114814	usual.suspects_tt0114814	1995	Kevin Spacey	The Usual Suspects	36:53:00	36.883	non-lead
+nm0001767	2004	tt0383694	vera.drake_tt0383694	2004	Imelda Staunton	Vera Drake	59:56:00	59.933	lead
+nm0000056	1983	tt0084855	verdict	1982	Paul Newman	The Verdict	1:32:32	92.533	lead
+nm0000051	1983	tt0084855	verdict	1982	James Mason	The Verdict	25:50:00	25.833	non-lead
+nm0000288	2018	tt6266538	vice_tt6266538	2018	Christian Bale	Vice	1:06:27	66.45	lead
+nm0005377	2018	tt6266538	vice_tt6266538	2018	Sam Rockwell	Vice	9:51	9.85	non-lead
+nm0010736	2018	tt6266538	vice_tt6266538	2018	Amy Adams	Vice	27:04:00	27.067	non-lead
+nm0004851	2008	tt0497465	vicky.cristina._tt0497465	2008	Penélope Cruz	Vicky Cristina Barcelona	14:29	14.483	non-lead
+nm0000267	1982	tt0084865	victorvictoria_tt0084865	1982	Julie Andrews	Victor/Victoria	1:12:17	72.283	lead
+nm0000690	1982	tt0084865	victorvictoria_tt0084865	1982	Lesley Ann Warren	Victor/Victoria	16:03	16.05	non-lead
+nm0696481	1982	tt0084865	victorvictoria_tt0084865	1982	Robert Preston	Victor/Victoria	50:04:00	50.067	non-lead
+nm0000163	1998	tt0120885	wag.the.dog_tt0120885	1997	Dustin Hoffman	Wag the Dog	45:24:00	45.4	lead
+nm0000702	2005	tt0358273	walk_the_line	2005	Reese Witherspoon	Walk the Line	46:23:00	46.383	lead
+nm0001618	2005	tt0358273	walk_the_line	2005	Joaquin Phoenix	Walk the Line	1:39:32	99.533	lead
+nm0000140	1988	tt0094291	wall.street_tt0094291	1987	Michael Douglas	Wall Street	40:25:00	40.417	lead
+nm3663196	2021	tt3581652	west.side.story_tt3581652	2021	Ariana DeBose	West Side Story	28:54:00	28.9	non-lead
+nm0000291	1993	tt0108551	whats.love.got._tt0108551	1993	Angela Bassett	What's Love Got to Do with It	1:23:31	83.517	lead
+nm0000401	1993	tt0108551	whats.love.got._tt0108551	1993	Laurence Fishburne	What's Love Got to Do with It	58:07:00	58.117	lead
+nm0799777	2014	tt2582802	whiplash_tt2582802	2014	J. K. Simmons	Whiplash	41:09:00	41.15	non-lead
+nm2225369	2010	tt1399683	winters.bone_tt1399683	2010	Jennifer Lawrence	Winter's Bone	1:05:40	65.667	lead
+nm0370035	2010	tt1399683	winters.bone_tt1399683	2010	John Hawkes	Winter's Bone	17:04	17.067	non-lead
+nm0000148	1985	tt0090329	witness	1985	Harrison Ford	Witness	50:46:00	50.767	lead
+nm0000138	2014	tt0993846	wolf.of.wall.st_tt0993846	2013	Leonardo DiCaprio	The Wolf of Wall Street	2:21:07	141.117	lead
+nm1706767	2014	tt0993846	wolf.of.wall.st_tt0993846	2013	Jonah Hill	The Wolf of Wall Street	45:31:00	45.517	non-lead
+nm0000429	1989	tt0096463	working_girl	1988	Melanie Griffith	Working Girl	1:27:48	87.8	lead
+nm0000244	1989	tt0096463	working_girl	1988	Sigourney Weaver	Working Girl	22:18	22.3	non-lead
+nm0000349	1989	tt0096463	working_girl	1988	Joan Cusack	Working Girl	9:18	9.3	non-lead
+nm0001388	1984	tt0086619	yentl_tt0086619	1983	Amy Irving	Yentl	25:24:00	25.4	non-lead
+nm1567113	2013	tt1790885	zero.dark.thirt_tt1790885	2012	Jessica Chastain	Zero Dark Thirty	57:15:00	57.25	lead
+				2006	Kate Winslet	Little Children	45:13:00	45.217	lead
+				2006	Jackie Earle Haley	Little Children	21:34	21.567	non-lead
+				2007	George Clooney	Michael Clayton	1:11:43	71.717	lead
+				2020	Gary Oldman	Mank	1:30:09	90.15	lead
+				2021	Denzel Washington	The Tragedy of Macbeth	43:36:00	43.6	lead
+				1985	William Hurt	Kiss of the Spider Woman	1:18:13	78.217	lead
+				2019	Jonathan Pryce	The Two Popes	1:12:42	72.7	lead
+				1983	Albert Finney	The Dresser	1:20:04	80.067	lead
+				2008	Frank Langella	Frost/Nixon	57:16:00	57.267	lead
+				1983	Tom Courtenay	The Dresser	1:12:01	72.017	lead
+				2022	Paul Mescal	Aftersun	58:14:00	58.233	lead
+				1980	Robert Duvall	The Great Santini	55:33:00	55.55	lead
+				1980	Jack Lemmon	Tribute	1:24:43	84.717	lead
+				1984	Jeff Bridges	Starman	56:37:00	56.617	lead
+				1984	Albert Finney	Under the Volcano	1:18:41	78.683	lead
+				1986	James Woods	Salvador	1:18:05	78.083	lead
+				1987	Marcello Mastroianni	Dark Eyes	1:15:53	75.883	lead
+				1987	Jack Nicholson	Ironweed	1:31:10	91.167	lead
+				1988	Edward James Olmos	Stand and Deliver	53:17:00	53.283	lead
+				1988	Max von Sydow	Pelle the Conqueror	54:00:00	54	lead
+				1989	Kenneth Branagh	Henry V	1:00:25	60.417	lead
+				1990	Richard Harris	The Field	1:03:53	63.883	lead
+				1990	Gerard Depardieu	Cyrano de Bergerac	1:12:35	72.583	lead
+				1992	Robert Downey Jr.	Chaplin	1:28:40	88.667	lead
+				1995	Anthony Hopkins	Nixon	2:04:10	124.167	lead
+				1996	Billy Bob Thornton	Sling Blade	1:46:22	106.367	lead
+				1997	Peter Fonda	Ulee's Gold	1:16:22	76.367	lead
+				1997	Jack Nicholson	As Good As It Gets	1:16:55	76.917	lead
+				1997	Robert Duvall	The Apostle	1:45:15	105.25	lead
+				1998	Edward Norton	American History X	1:09:24	69.4	lead
+				1998	Roberto Benigni	Life is Beautiful	1:17:20	77.333	lead
+				1999	Sean Penn	Sweet and Lowdown	1:02:51	62.85	lead
+				1999	Richard Farnsworth	The Straight Story	1:05:42	65.7	lead
+				2000	Geoffrey Rush	Quills	37:25:00	37.417	lead
+				2000	Javier Bardem	Before Night Falls	1:29:51	89.85	lead
+				2000	Ed Harris	Pollock	1:36:12	96.2	lead
+				2001	Sean Penn	I Am Sam	1:27:57	87.95	lead
+				2001	Will Smith	Ali	1:57:22	117.367	lead
+				2002	Michael Caine	The Quiet American	1:04:33	64.55	lead
+				2003	Ben Kingsley	House of Sand and Fog	52:24:00	52.4	lead
+				2005	David Strathairn	Good Night, and Good Luck	44:10:00	44.167	lead
+				2005	Terrence Howard	Hustle & Flow	1:25:15	85.25	lead
+				2006	Ryan Gosling	Half Nelson	1:07:54	67.9	lead
+				2006	Peter O'Toole	Venus	1:09:05	69.083	lead
+				2006	Leonardo DiCaprio	Blood Diamond	1:23:05	83.083	lead
+				2007	Tommy Lee Jones	In the Valley of Elah	1:06:12	66.2	lead
+				2008	Richard Jenkins	The Visitor	1:18:09	78.15	lead
+				2008	Mickey Rourke	The Wrestler	1:28:18	88.3	lead
+				2009	Morgan Freeman	Invictus	46:24:00	46.4	lead
+				2009	Colin Firth	A Single Man	1:21:18	81.3	lead
+				2009	Jeff Bridges	Crazy Heart	1:36:52	96.867	lead
+				2010	Javier Bardem	Biutiful	1:41:55	101.917	lead
+				2011	Demian Bichir	A Better Life	1:02:49	62.817	lead
+				2015	Eddie Redmayne	The Danish Girl	1:18:42	78.7	lead
+				2015	Bryan Cranston	Trumbo	1:19:22	79.367	lead
+				2015	Michael Fassbender	Steve Jobs	1:39:34	99.567	lead
+				2016	Viggo Mortensen	Captain Fantastic	1:08:59	68.983	lead
+				2017	Denzel Washington	Roman J. Israel, Esq.	1:35:00	95	lead
+				2017	Timothée Chalamet	Call Me By Your Name	1:49:34	109.567	lead
+				2018	Willem Dafoe	At Eternity's Gate	1:13:02	73.033	lead
+				2019	Antonio Banderas	Pain and Glory	59:31:00	59.517	lead
+				2020	Chadwick Boseman	Ma Rainey's Black Bottom	44:07:00	44.117	lead
+				2021	Javier Bardem	Being the Ricardos	55:38:00	55.633	lead
+				2021	Andrew Garfield	tick, tick... BOOM!	1:32:13	92.217	lead
+				2022	Bill Nighy	Living	48:25:00	48.417	lead
+				2022	Brendan Fraser	The Whale	1:21:57	81.95	lead
+				2023	Colman Domingo	Rustin	1:06:43	66.717	lead
+				2023	Paul Giamatti	The Holdovers	1:13:47	73.783	lead
+				2023	Jeffrey Wright	American Fiction	1:22:55	82.917	lead
+				2023	Bradley Cooper	Maestro	1:32:57	92.95	lead
+				2023	Cillian Murphy	Oppenheimer	1:53:10	113.167	lead
+				1980	Ellen Burstyn	Resurrection	1:15:54	75.9	lead
+				1981	Marsha Mason	Only When I Laugh	1:37:04	97.067	lead
+				1982	Jessica Lange	Frances	1:44:04	104.067	lead
+				1983	Jane Alexander	Testament	48:47:00	48.783	lead
+				1984	Sissy Spacek	The River	40:51:00	40.85	lead
+				1984	Vanessa Redgrave	The Bostonians	46:54:00	46.9	lead
+				1984	Jessica Lange	Country	1:00:24	60.4	lead
+				1985	Geraldine Page	The Trip to Bountiful	1:18:39	78.65	lead
+				1985	Jessica Lange	Sweet Dreams	1:21:57	81.95	lead
+				1986	Jane Fonda	The Morning After	1:19:48	79.8	lead
+				1987	Meryl Streep	Ironweed	45:32:00	45.533	lead
+				1987	Sally Kirkland	Anna	1:08:32	68.533	lead
+				1989	Michelle Pfeiffer	The Fabulous Baker Boys	50:15:00	50.25	lead
+				1989	Jessica Lange	Music Box	1:23:48	83.8	lead
+				1989	Isabelle Adjani	Camille Claudel	1:37:45	97.75	lead
+				1990	Joanne Woodward	Mr. and Mrs. Bridge	1:02:23	62.383	lead
+				1991	Laura Dern	Rambling Rose	50:22:00	50.367	lead
+				1991	Geena Davis	Thelma and Louise	1:09:36	69.6	lead
+				1991	Susan Sarandon	Thelma and Louise	1:12:42	72.7	lead
+				1991	Bette Midler	For the Boys	1:24:06	84.1	lead
+				1992	Catherine Deneuve	Indochine	1:01:27	61.45	lead
+				1992	Susan Sarandon	Lorenzo's Oil	1:10:01	70.017	lead
+				1992	Michelle Pfeiffer	Love Field	1:10:02	70.033	lead
+				1992	Mary McDonnell	Passion Fish	1:17:54	77.9	lead
+				1993	Stockard Channing	Six Degrees of Separation	1:02:32	62.533	lead
+				1994	Jessica Lange	Blue Sky	56:18:00	56.3	lead
+				1994	Miranda Richardson	Tom and Viv	56:53:00	56.883	lead
+				1996	Diane Keaton	Marvin's Room	51:30:00	51.5	lead
+				1996	Brenda Blethyn	Secrets and Lies	1:01:16	61.267	lead
+				1997	Julie Christie	Afterglow	41:40:00	41.667	lead
+				1997	Helena Bonham Carter	The Wings of the Dove	50:07:00	50.117	lead
+				1997	Helen Hunt	As Good As It Gets	59:00:00	59	lead
+				1998	Meryl Streep	One True Thing	43:25:00	43.417	lead
+				1998	Emily Watson	Hilary and Jackie	1:06:03	66.05	lead
+				1998	Fernanda Montenegro	Central Station	1:17:39	77.65	lead
+				1999	Janet McTeer	Tumbleweeds	1:06:08	66.133	lead
+				1999	Hilary Swank	Boys Don't Cry	1:13:02	73.033	lead
+				1999	Meryl Streep	Music of the Heart	1:34:26	94.433	lead
+				2000	Ellen Burstyn	Requiem for a Dream	35:47:00	35.783	lead
+				2000	Joan Allen	The Contender	45:48:00	45.8	lead
+				2000	Laura Linney	You Can Count on Me	1:01:03	61.05	lead
+				2001	Judi Dench	Iris	44:11:00	44.183	lead
+				2001	Halle Berry	Monster's Ball	49:13:00	49.217	lead
+				2002	Salma Hayek	Frida	1:26:36	86.6	lead
+				2003	Samantha Morton	In America	30:33:00	30.55	lead
+				2003	Keisha Castle-Hughes	Whale Rider	44:04:00	44.067	lead
+				2003	Naomi Watts	21 Grams	48:08:00	48.133	lead
+				2003	Charlize Theron	Monster	1:23:11	83.183	lead
+				2004	Annette Bening	Being Julia	1:10:15	70.25	lead
+				2004	Catalina Sandino Moreno	Maria Full of Grace	1:15:51	75.85	lead
+				2005	Charlize Theron	North Country	1:03:36	63.6	lead
+				2005	Felicity Huffman	Transamerica	1:17:29	77.483	lead
+				2006	Judi Dench	Notes on a Scandal	55:46:00	55.767	lead
+				2006	Penélope Cruz	Volver	1:12:50	72.833	lead
+				2007	Julie Christie	Away from Her	47:53:00	47.883	lead
+				2007	Cate Blanchett	Elizabeth: The Golden Age	51:39:00	51.65	lead
+				2007	Laura Linney	The Savages	1:16:06	76.1	lead
+				2007	Marion Cotillard	La Vie en Rose	1:21:14	81.233	lead
+				2008	Meryl Streep	Doubt	51:40:00	51.667	lead
+				2008	Melissa Leo	Frozen River	57:53:00	57.883	lead
+				2008	Anne Hathaway	Rachel Getting Married	1:05:59	65.983	lead
+				2008	Angelina Jolie	Changeling	1:16:04	76.067	lead
+				2009	Helen Mirren	The Last Station	38:09:00	38.15	lead
+				2009	Meryl Streep	Julie and Julia	54:03:00	54.05	lead
+				2010	Nicole Kidman	Rabbit Hole	1:00:15	60.25	lead
+				2010	Michelle Williams	Blue Valentine	1:18:57	78.95	lead
+				2011	Rooney Mara	The Girl with the Dragon Tattoo	1:01:38	61.633	lead
+				2011	Glenn Close	Albert Nobbs	1:04:35	64.583	lead
+				2011	Meryl Streep	The Iron Lady	1:11:35	71.583	lead
+				2012	Naomi Watts	The Impossible	47:16:00	47.267	lead
+				2013	Meryl Streep	August: Osage County	53:08:00	53.133	lead
+				2013	Cate Blanchett	Blue Jasmine	1:07:31	67.517	lead
+				2014	Julianne Moore	Still Alice	1:21:08	81.133	lead
+				2014	Marion Cotillard	Two Days, One Night	1:24:51	84.85	lead
+				2014	Reese Witherspoon	Wild	1:41:45	101.75	lead
+				2015	Charlotte Rampling	45 Years	1:27:03	87.05	lead
+				2016	Ruth Negga	Loving	52:19:00	52.317	lead
+				2016	Meryl Streep	Florence Foster Jenkins	59:38:00	59.633	lead
+				2016	Natalie Portman	Jackie	1:16:29	76.483	lead
+				2016	Isabelle Huppert	Elle	1:49:55	109.917	lead
+				2017	Margot Robbie	I, Tonya	1:05:41	65.683	lead
+				2018	Glenn Close	The Wife	1:02:02	62.033	lead
+				2018	Melissa McCarthy	Can You Ever Forgive Me?	1:22:52	82.867	lead
+				2019	Cynthia Erivo	Harriet	1:25:12	85.2	lead
+				2019	Renée Zellweger	Judy	1:27:29	87.483	lead
+				2020	Viola Davis	Ma Rainey's Black Bottom	26:41:00	26.683	lead
+				2020	Vanessa Kirby	Pieces of a Woman	1:18:32	78.533	lead
+				2020	Andra Day	The United States vs. Billie Holiday	1:27:42	87.7	lead
+				2021	Olivia Colman	The Lost Daughter	1:08:08	68.133	lead
+				2021	Kristen Stewart	Spencer	1:18:15	78.25	lead
+				2021	Nicole Kidman	Being the Ricardos	1:23:55	83.917	lead
+				2021	Penélope Cruz	Parallel Mothers	1:28:40	88.667	lead
+				2021	Jessica Chastain	The Eyes of Tammy Faye	1:36:42	96.7	lead
+				2022	Andrea Riseborough	To Leslie	1:33:04	93.067	lead
+				2022	Ana de Armas	Blonde	1:53:44	113.733	lead
+				2023	Lily Gladstone	Killers of the Flower Moon	56:13:00	56.217	lead
+				2023	Carey Mulligan	Maestro	1:04:15	64.25	lead
+				2023	Sandra Hüller	Anatomy of a Fall	1:14:39	74.65	lead
+				2023	Annette Bening	Nyad	1:20:21	80.35	lead
+				2023	Emma Stone	Poor Things	1:37:19	97.317	lead
+				1988	Alec Guinness	Little Dorrit	1:04:01	64.017	non-lead
+				2019	Anthony Hopkins	The Two Popes	55:14:00	55.233	non-lead
+				2020	Sacha Baron Cohen	The Trial of the Chicago 7	30:14:00	30.233	non-lead
+				2007	Tilda Swinton	Michael Clayton	18:34	18.567	non-lead
+				2007	Tom Wilkinson	Michael Clayton	20:53	20.883	non-lead
+				2020	Amanda Seyfried	Mank	18:13	18.217	non-lead
+				2021	Troy Kotsur	CODA	35:34:00	35.567	non-lead
+				2023	Danielle Brooks	The Color Purple	24:19:00	24.317	non-lead
+				1980	Michael O'Keefe	The Great Santini	54:07:00	54.117	non-lead
+				1981	James Coco	Only When I Laugh	25:26:00	25.433	non-lead
+				1982	John Lithgow	The World According to Garp	18:14	18.233	non-lead
+				1983	Charles Durning	To Be or Not to Be	14:49	14.817	non-lead
+				1983	Rip Torn	Cross Creek	24:22:00	24.367	non-lead
+				1987	Morgan Freeman	Street Smart	29:45:00	29.75	non-lead
+				1989	Marlon Brando	A Dry White Season	10:13	10.217	non-lead
+				1990	Bruce Davison	Longtime Companion	30:25:00	30.417	non-lead
+				1991	Michael Lerner	Barton Fink	10:06	10.1	non-lead
+				1992	Al Pacino	Glengarry Glen Ross	34:22:00	34.367	non-lead
+				1992	David Paymer	Mr. Saturday Night	42:49:00	42.817	non-lead
+				1993	Leonardo DiCaprio	What's Eating Gilbert Grape	41:52:00	41.867	non-lead
+				1994	Chazz Palminteri	Bullets Over Broadway	26:12:00	26.2	non-lead
+				1995	Tim Roth	Rob Roy	36:39:00	36.65	non-lead
+				1996	James Woods	Ghosts of Mississippi	16:36	16.6	non-lead
+				1997	Greg Kinnear	As Good As It Gets	37:13:00	37.217	non-lead
+				1997	Robert Forster	Jackie Brown	37:26:00	37.433	non-lead
+				1998	Robert Duvall	A Civil Action	22:36	22.6	non-lead
+				1998	Billy Bob Thornton	A Simple Plan	48:36:00	48.6	non-lead
+				1999	Tom Cruise	Magnolia	30:58:00	30.967	non-lead
+				2000	Willem Dafoe	Shadow of the Vampire	33:50:00	33.833	non-lead
+				2000	Jeff Bridges	The Contender	36:15:00	36.25	non-lead
+				2001	Jon Voight	Ali	14:39	14.65	non-lead
+				2001	Ben Kingsley	Sexy Beast	28:32:00	28.533	non-lead
+				2001	Jim Broadbent	Iris	38:38:00	38.633	non-lead
+				2002	Chris Cooper	Adaptation	25:20:00	25.333	non-lead
+				2003	Djimon Hounsou	In America	17:03	17.05	non-lead
+				2003	Benicio Del Toro	21 Grams	29:04:00	29.067	non-lead
+				2003	Alec Baldwin	The Cooler	31:48:00	31.8	non-lead
+				2005	George Clooney	Syriana	27:51:00	27.85	non-lead
+				2006	Djimon Hounsou	Blood Diamond	58:19:00	58.317	non-lead
+				2007	Hal Holbrook	Into the Wild	13:50	13.833	non-lead
+				2007	Casey Affleck	The Assassination of Jesse James by the Coward Robert Ford	1:02:40	62.667	non-lead
+				2008	Philip Seymour Hoffman	Doubt	39:51:00	39.85	non-lead
+				2009	Stanley Tucci	The Lovely Bones	26:59:00	26.983	non-lead
+				2009	Christopher Plummer	The Last Station	37:17:00	37.283	non-lead
+				2009	Matt Damon	Invictus	39:18:00	39.3	non-lead
+				2009	Woody Harrelson	The Messenger	54:27:00	54.45	non-lead
+				2011	Christopher Plummer	Beginners	21:13	21.217	non-lead
+				2011	Max von Sydow	Extremely Loud and Incredibly Close	23:42	23.7	non-lead
+				2011	Nick Nolte	Warrior	31:47:00	31.783	non-lead
+				2014	Robert Duvall	The Judge	44:02:00	44.033	non-lead
+				2016	Michael Shannon	Nocturnal Animals	25:27:00	25.45	non-lead
+				2017	Christopher Plummer	All the Money in the World	25:26:00	25.433	non-lead
+				2018	Richard E. Grant	Can You Ever Forgive Me?	31:04:00	31.067	non-lead
+				2020	Leslie Odom Jr.	One Night in Miami	54:20:00	54.333	non-lead
+				2021	J. K. Simmons	Being the Ricardos	17:04	17.067	non-lead
+				2022	Brian Tyree Henry	Causeway	29:32:00	29.533	non-lead
+				2023	Sterling K. Brown	American Fiction	16:25	16.417	non-lead
+				2023	Robert Downey Jr.	Oppenheimer	23:50	23.833	non-lead
+				2023	Ryan Gosling	Barbie	28:59:00	28.983	non-lead
+				2023	Mark Ruffalo	Poor Things	31:07:00	31.117	non-lead
+				2023	Robert De Niro	Killers of the Flower Moon	47:38:00	47.633	non-lead
+				1980	Eva Le Gallienne	Resurrection	13:40	13.667	non-lead
+				1980	Diana Scarwid	Inside Moves	23:37	23.617	non-lead
+				1981	Joan Hackett	Only When I Laugh	21:15	21.25	non-lead
+				1982	Kim Stanley	Frances	21:16	21.267	non-lead
+				1982	Glenn Close	The World According to Garp	38:37:00	38.617	non-lead
+				1983	Alfre Woodard	Cross Creek	17:42	17.7	non-lead
+				1983	Linda Hunt	The Year of Living Dangerously	37:07:00	37.117	non-lead
+				1984	Geraldine Page	The Pope of Greenwich Village	6:06	6.1	non-lead
+				1984	Christine Lahti	Swing Shift	32:04:00	32.067	non-lead
+				1985	Amy Madigan	Twice in a Lifetime	26:28:00	26.467	non-lead
+				1987	Ann Sothern	The Whales of August	20:16	20.267	non-lead
+				1987	Norma Aleandro	Gaby - A True Story	49:53:00	49.883	non-lead
+				1990	Dane Ladd	Wild at Heart	19:35	19.583	non-lead
+				1991	Diane Ladd	Rambling Rose	34:24:00	34.4	non-lead
+				1992	Miranda Richardson	Damage	20:12	20.2	non-lead
+				1992	Judy Davis	Husbands and Wives	30:41:00	30.683	non-lead
+				1993	Rosie Perez	Fearless	36:30:00	36.5	non-lead
+				1994	Rosemary Harris	Tom and Viv	16:50	16.833	non-lead
+				1994	Jennifer Tilly	Bullets Over Broadway	26:38:00	26.633	non-lead
+				1994	Dianne Wiest	Bullets Over Broadway	27:01:00	27.017	non-lead
+				1995	Joan Allen	Nixon	25:09:00	25.15	non-lead
+				1995	Mira Sorvino	Mighty Aphrodite	35:06:00	35.1	non-lead
+				1995	Mare Winningham	Georgia	40:14:00	40.233	non-lead
+				1996	Joan Allen	The Crucible	23:33	23.55	non-lead
+				1996	Barbara Hershey	The Portrait of a Lady	26:24:00	26.4	non-lead
+				1996	Marianne Jean-Baptiste	Secrets and Lies	1:00:38	60.633	non-lead
+				1997	Kim Basinger	L. A. Confidential	16:28	16.467	non-lead
+				1998	Brenda Blethyn	Little Voice	39:02:00	39.033	non-lead
+				1998	Rachel Griffiths	Hilary and Jackie	43:24:00	43.4	non-lead
+				1999	Samantha Morton	Sweet and Lowdown	25:03:00	25.05	non-lead
+				1999	Angelina Jolie	Girl, Interrupted	37:12:00	37.2	non-lead
+				1999	Chloë Sevigny	Boys Don't Cry	50:45:00	50.75	non-lead
+				2000	Marcia Gay Harden	Pollock	45:44:00	45.733	non-lead
+				2001	Kate Winslet	Iris	21:57	21.95	non-lead
+				2003	Patricia Clarkson	Pieces of April	20:27	20.45	non-lead
+				2003	Shohreh Aghdashloo	House of Sand and Fog	21:02	21.033	non-lead
+				2003	Holly Hunter	Thirteen	34:57:00	34.95	non-lead
+				2005	Frances McDormand	North Country	15:11	15.183	non-lead
+				2005	Amy Adams	Junebug	31:07:00	31.117	non-lead
+				2006	Cate Blanchett	Notes on a Scandal	51:34:00	51.567	non-lead
+				2007	Amy Ryan	Gone Baby Gone	13:18	13.3	non-lead
+				2007	Cate Blanchett	I'm Not There	27:09:00	27.15	non-lead
+				2008	Viola Davis	Doubt	10:23	10.383	non-lead
+				2008	Marisa Tomei	The Wrestler	20:55	20.917	non-lead
+				2008	Amy Adams	Doubt	36:51:00	36.85	non-lead
+				2009	Maggie Gyllenhaal	Crazy Heart	31:03:00	31.05	non-lead
+				2010	Jacki Weaver	Animal Kingdom	22:04	22.067	non-lead
+				2011	Janet McTeer	Albert Nobbs	27:55:00	27.917	non-lead
+				2012	Helen Hunt	The Sessions	37:41:00	37.683	non-lead
+				2013	Sally Hawkins	Blue Jasmine	31:13:00	31.217	non-lead
+				2013	Julia Roberts	August: Osage County	56:15:00	56.25	non-lead
+				2014	Laura Dern	Wild	9:36	9.6	non-lead
+				2015	Kate Winslet	Steve Jobs	39:41:00	39.683	non-lead
+				2015	Jennifer Jason Leigh	The Hateful Eight	57:45:00	57.75	non-lead
+				2015	Alicia Vikander	The Danish Girl	59:37:00	59.617	non-lead
+				2017	Allison Janney	I, Tonya	15:37	15.617	non-lead
+				2017	Mary J. Blige	Mudbound	27:10:00	27.167	non-lead
+				2020	Glenn Close	Hillbilly Elegy	23:23	23.383	non-lead
+				2020	Maria Bakalova	Borat Subsequent Moviefilm	40:06:00	40.1	non-lead
+				2021	Jessie Buckley	The Lost Daughter	28:21:00	28.35	non-lead
+				2022	Hong Chau	The Whale	24:43:00	24.717	non-lead
+				2023	Emily Blunt	Oppenheimer	16:50	16.833	non-lead
+				2023	America Ferrera	Barbie	22:08	22.133	non-lead
+				2023	Da'Vine Joy Randolph	The Holdovers	25:29:00	25.483	non-lead
+				2023	Jodie Foster	Nyad	1:00:16	60.267	non-lead
+				1986	Dexter Gordon	Round Midnight	1:26:21	86.35	lead
