@@ -28,8 +28,12 @@ wget -P TransNetV2/inference/transnetv2-weights/variables/ https://github.com/so
 mkdir yunet
 wget -P yunet/ https://github.com/opencv/opencv_zoo/raw/main/models/face_detection_yunet/face_detection_yunet_2023mar.onnx
 
-wget -P data http://yosemite.ischool.berkeley.edu/filmanalytics/data/imdb.actor.faces.insightface.txt
-wget -P data http://yosemite.ischool.berkeley.edu/filmanalytics/data/casts.tar.gz
+mkdir data
+
+wget --no-check-certificate https://figshare.com/ndownloader/files/50086221 -O data/imdb.actor.faces.insightface.txt.gz
+gunzip data/imdb.actor.faces.insightface.txt.gz
+
+wget --no-check-certificate https://figshare.com/ndownloader/files/50086176 -O data/casts.tar.gz
 tar -xzvf data/casts.tar.gz -C data
 ```
 

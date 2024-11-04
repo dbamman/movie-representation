@@ -1,7 +1,8 @@
 Get data (6.0 gb)
 
 ```
-wget http://yosemite.ischool.berkeley.edu/filmanalytics/data/eval_data.tar
+wget --no-check-certificate https://figshare.com/ndownloader/files/50086557 -O eval_data.tar.gz
+gunzip eval_data.tar.gz
 tar -xf eval_data.tar
 ```
 

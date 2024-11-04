@@ -2,7 +2,8 @@ Get the movie processed data for all 2,307 movies.  This includes information on
 
 ```
 cd data
-wget yosemite.ischool.berkeley.edu/filmanalytics/data/MOVIE_ANALYSIS_DATA.tar
+wget --no-check-certificate https://figshare.com/ndownloader/files/49591243 -O MOVIE_ANALYSIS_DATA.tar.gz
+gunzip MOVIE_ANALYSIS_DATA.tar.gz
 tar -xf MOVIE_ANALYSIS_DATA.tar
 ```
 

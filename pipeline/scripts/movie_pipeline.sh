@@ -5,7 +5,8 @@ MOV_ID=hitchhiker
 IMDB_ID=tt0045877
 
 # get input file
-wget -P example http://yosemite.ischool.berkeley.edu/filmanalytics/data/hitchhiker_clip_25.mp4
+mkdir example
+wget --no-check-certificate https://figshare.com/ndownloader/files/50086182 -O example/hitchhiker_clip_25.mp4
 
 OUTDIR=computed_data/$MOV_ID
 
